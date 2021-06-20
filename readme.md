@@ -23,7 +23,7 @@ QMK Configurator support means you can create a custom firmware for this keyboar
 5)  [Installing the columns](#installing-the-columns)  
 6)  [Wiring the controller, reset button and TRRS jack](#wiring-the-controller-reset-button-and-TRRS-jack)  
 7)  [Programming the controllers](#programming-the-controllers)  
-8)  [Adding the wrist pads and base plates](#adding-the-wrist-pads-and-base-plates)  
+8)  [Installing the base plates](#installing-the-base-plates)  
 9)  [Wrap the wrist bases and rests](#wrap-the-wrist-bases-and-rests)  
 10) [Mount the wrist rests](#mount-the-wrist-rests)  
 11) [Install rubber feet](#install-rubber-feet)  
@@ -172,7 +172,7 @@ QMK Configurator support means you can create a custom firmware for this keyboar
   
   Connect one of the halves of the keyboard to your computer via USB.  
   Then press the reset button twice quickly and wait a few seconds, you should see a message that your controller is connected and visible to QMK.  
-
+  
   In QMK, click the flash button in the upper right corner.  
 
   You should see status messages scroll past and then a success message.  
@@ -194,15 +194,13 @@ QMK Configurator support means you can create a custom firmware for this keyboar
 
   Once you've verified both sides are fully functional, pat yourself on the back for a job well done on the wiring and programming!  
 
-### Adding the wrist pads and base plates
+### Installing the base plates
 
   M3 screw size
 
 ![image](https://i.imgur.com/qCNEOkp.png)  
 
   You can install the base plates at this point knowing your keyboard electronics build is fully functional.  I created many joints between the base plates and the main bodies(hence all the screws) to minimize the drumming sound of a large surface with nothing below it.  Especially with plastic vs say aluminum.  
-
-  The wrist pad bases are attached to main bodies using the M3 hardware.  One of the screws(1x10mnm) does not use a nylock nut and simply self threads in to the base.
   
 ### Wrap the wrist rests
   (optional but highly recommended)  
@@ -234,6 +232,8 @@ QMK Configurator support means you can create a custom firmware for this keyboar
 ![image](https://i.imgur.com/KtgN7Lq.jpg)  
 
 ![image](https://i.imgur.com/DSHqTEd.jpg)  
+
+  The wrist bases are secured to the bodies with  bolts and nylock nuts minus the single 10mm screw which self threads into the body only.
 
   Mount the wrist rests on the bases.  Note there are a few screws that only purchase a few threads so tread lightly to install those.  
   
@@ -267,7 +267,7 @@ TRS Cable - [CableCreation 1.5ft](https://www.amazon.com/gp/product/B01K3WYJBK/)
 Soldering Iron - [Hakko FX888D](https://www.amazon.com/Hakko-FX888D-23BY-Digital-Soldering-Station/dp/B00ANZRT4M/)  
 Solder - [Kester 24-6337-0010](https://www.amazon.com/gp/product/B00068IJWC/)  
 Side Cutter - [IGAN-170](https://www.amazon.com/gp/product/B07GR7QF63/)  
-Adjustable Wire Stripper - [Miller 101-S](https://www.amazon.com/Miller-100-S-101-S-Wire-Stripper/dp/B01BX22P1K/)  
+Adjustable Wire Stripper - [Jonard Tools WS-5](https://www.amazon.com/Jonard-Tools-Adjustable-Stripper-10-30AWG/dp/B00WJPRKIY/)  
 
 ### GMK Info
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information.  
