@@ -23,7 +23,7 @@ QMK Configurator support means you can create a custom firmware for this keyboar
 5)  [Installing the columns](#installing-the-columns)  
 6)  [Wiring the controller, reset button and TRRS jack](#wiring-the-controller-reset-button-and-TRRS-jack)  
 7)  [Programming the controllers](#programming-the-controllers)  
-8)  [Installing the base plates](#installing-the-base-plates)  
+8)  [Adding the wrist pads and base plates](#adding-the-wrist-pads-and-base-plates)  
 9)  [Wrap the wrist bases and rests](#wrap-the-wrist-bases-and-rests)  
 10) [Mount the wrist rests](#mount-the-wrist-rests)  
 11) [Install rubber feet](#install-rubber-feet)  
@@ -172,7 +172,7 @@ QMK Configurator support means you can create a custom firmware for this keyboar
   
   Connect one of the halves of the keyboard to your computer via USB.  
   Then press the reset button twice quickly and wait a few seconds, you should see a message that your controller is connected and visible to QMK.  
-  
+
   In QMK, click the flash button in the upper right corner.  
 
   You should see status messages scroll past and then a success message.  
@@ -194,13 +194,15 @@ QMK Configurator support means you can create a custom firmware for this keyboar
 
   Once you've verified both sides are fully functional, pat yourself on the back for a job well done on the wiring and programming!  
 
-### Installing the base plates
+### Adding the wrist pads and base plates
 
   M3 screw size
 
 ![image](https://i.imgur.com/qCNEOkp.png)  
 
   You can install the base plates at this point knowing your keyboard electronics build is fully functional.  I created many joints between the base plates and the main bodies(hence all the screws) to minimize the drumming sound of a large surface with nothing below it.  Especially with plastic vs say aluminum.  
+
+  The wrist pad bases are attached to main bodies using the M3 hardware.  One of the screws(1x10mnm) does not use a nylock nut and simply self threads in to the base.
   
 ### Wrap the wrist rests
   (optional but highly recommended)  
