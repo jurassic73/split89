@@ -30,9 +30,9 @@ QMK Configurator support means you can create a custom firmware for this keyboar
 
 **My Personal Build**  
 [Keyboard Pics](#my-personal-build)  
-[Main Hardware](my-personal-build-main-hardware)  
+[Main Hardware](#my-personal-build-main-hardware)  
 [Tools](#my-tools)  
-[GMK Info](gmk-info)  
+[GMK Info](#gmk-info)  
 
 # Bill of Materials  
   * 3d printed components in [3d_printing_stl_files](https://github.com/jurassic73/split89/tree/main/3d_printing_stl_files) directory  
