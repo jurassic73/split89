@@ -137,9 +137,9 @@ QMK Configurator support means you can create a custom firmware for this keyboar
 
   The tactile reset switch is not directional.  i.e. the two wires connecting to them just need to connect to two contacts that come out the same side of the switch.
 
-![image](https://i.imgur.com/Eb7rLX7.jpg)
-
   I would highly recommend putting all jumpers required, in place on the pro micro, before mounting the pro micro on the electronics plate.  
+
+![image](https://i.imgur.com/Eb7rLX7.jpg)
   
   Also, note which plate goes with with which controller, right or left.  They are specific to each side.  The right side has more wires.  Pre-wiring the controllers will make for an easier and cleaner installation.  I tinned all of the pins on the controller I'd be using ahead of time.  The pre-tinned wire drops into place nicely when these tinned pins are reheated.  
   
