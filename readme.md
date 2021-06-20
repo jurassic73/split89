@@ -241,8 +241,8 @@ QMK Configurator support means you can create a custom firmware for this keyboar
 
   I designed the foot inset holes to allow use of feet for grip and sound isolation but not protrude all the way to avoid adding height to the keyboard.  
 
-Congrats!  You're done!  Happy Typing! 
- Wrap the wrist rests
+Congrats!  You're done!  Happy Typing!  
+
 ### My personal build
 
 ![image](https://i.imgur.com/1vM3v0t.jpg)
