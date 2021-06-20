@@ -28,6 +28,12 @@ QMK Configurator support means you can create a custom firmware for this keyboar
 10) [Mount the wrist rests](#mount-the-wrist-rests)  
 11) [Install rubber feet](#install-rubber-feet)  
 
+**My Personal Build**  
+[Keyboard Pics](#my-personal-build)  
+[Main Hardware](my-personal-build-main-hardware)  
+[Tools](#my-tools)  
+[GMK Info](gmk-info)  
+
 # Bill of Materials  
   * 3d printed components in [3d_printing_stl_files](https://github.com/jurassic73/split89/tree/main/3d_printing_stl_files) directory  
     **Print one of each:**  
@@ -236,8 +242,8 @@ QMK Configurator support means you can create a custom firmware for this keyboar
   I designed the foot inset holes to allow use of feet for grip and sound isolation but not protrude all the way to avoid adding height to the keyboard.  
 
 Congrats!  You're done!  Happy Typing! 
-
-My personal build...
+ Wrap the wrist rests
+### My personal build...
 
 ![image](https://i.imgur.com/1vM3v0t.jpg)
 
@@ -247,18 +253,21 @@ My personal build...
 
 ![image](https://i.imgur.com/KheWpgT.jpg)
 
+### My personal build main hardware...
 Filament - [SUNLU Grey PETG](https://www.amazon.com/gp/product/B07Y5TCH9V/)  
 Keyswitches - [Alpaca Linear](https://www.primekb.com/products/alpaca-linears?variant=37633188888739)  
 Keycaps - [GMK White on Black](https://drop.com/buy/gmk-white-on-black-custom-keycap-set)  
+Car wrap vinyl [3m Black Carbon Fiber](https://www.ebay.com/itm/172810319316)  
 TRS Cable - [CableCreation 1.5ft](https://www.amazon.com/gp/product/B01K3WYJBK/)  
 
-My Tools...
+### My Tools...
 3D Printer - [Prusa MK3s](https://shop.prusa3d.com/en/3d-printers/180-original-prusa-i3-mk3s-kit.html)  
 Soldering Iron - [Hakko FX888D](https://www.amazon.com/Hakko-FX888D-23BY-Digital-Soldering-Station/dp/B00ANZRT4M/)  
 Solder - [Kester 24-6337-0010](https://www.amazon.com/gp/product/B00068IJWC/)  
 Side Cutter - [IGAN-170](https://www.amazon.com/gp/product/B07GR7QF63/)  
 Adjustable Wire Stripper - [Miller 101-S](https://www.amazon.com/Miller-100-S-101-S-Wire-Stripper/dp/B01BX22P1K/)  
 
+### GMK Info
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information.  
 
 Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).  
