@@ -200,7 +200,7 @@ QMK Configurator support means you can create a custom firmware for this keyboar
 
   You can install the base plates at this point knowing your keyboard electronics build is fully functional.  I created many joints between the base plates and the main bodies(hence all the screws) to minimize the drumming sound of a large surface with nothing below it.  Especially with plastic vs say aluminum.  
   
-### Wrap the wrist rests
+### Wrap the wrist bases and rests
   (optional but highly recommended)  
 
 ![image](https://i.imgur.com/DJABRS7.jpg)  
