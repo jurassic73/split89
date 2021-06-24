@@ -9,7 +9,7 @@ The left half has an extra key on the bottom row so you can shift to other layer
 QMK Configurator support means you can create a custom firmware for this keyboard with your own keymaps/layers or simply download the existing keymap firmware via the [QMK Configurator](https://config.qmk.fm/#/handwired/split89) page.
 
 **External Links**  
-[QMK Configurator](https://config.qmk.fm/#/handwired/split89) - keymap/firmware generator (default keymap is pending merge in pull request)  
+[QMK Configurator](https://config.qmk.fm/#/handwired/split89) - keymap/firmware generator  
 [Thingiverse ](https://www.thingiverse.com/thing:4888932)  
 
 **Table of Contents**  
@@ -156,8 +156,6 @@ QMK Configurator support means you can create a custom firmware for this keyboar
 ### Programming the controllers
 
   [QMK Configurator](https://config.qmk.fm/#/handwired/split89/LAYOUT)
-
-  **6/19/21 - Note:** - a default layout will be available on QMK Configurator(waiting on a github merge) in the next week.  Until then you can manually create the keymap [here](https://i.imgur.com/h1C4d9t.png).
 
   To download the default layout firmware, go to the above link, click 'COMPILE' in the upper right corner and you'll see a popup noting that firmware is being compiled.  Once the firmware generation is complete, click the 'FIRMWARE' button to download the hex file.  The reason you download  from this page is so if you want to customize the keymap, you can do so.
 
