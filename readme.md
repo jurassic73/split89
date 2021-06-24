@@ -6,10 +6,10 @@ This keyboard build was inspired by the Microsoft Ergonomic 4000 keyboard I used
 
 The left half has an extra key on the bottom row so you can shift to other layers.  The [default keymap below](#programming-the-controllers) illustrates this.
 
-QMK Configurator support means you can create a custom firmware for this keyboard with your own keymaps/layers or simply download the existing keymap firmware via the [QMK Configurator](https://config.qmk.fm/#/handwired/split89) page.
+QMK Configurator support means you can create a custom firmware for this keyboard with your own keymaps/layers or simply download the existing keymap firmware via the [QMK Configurator](https://config.qmk.fm/#/handwired/split89/LAYOUT) page.
 
 **External Links**  
-[QMK Configurator](https://config.qmk.fm/#/handwired/split89) - keymap/firmware generator  
+[QMK Configurator](https://config.qmk.fm/#/handwired/split89/LAYOUT) - keymap/firmware generator  
 [Thingiverse ](https://www.thingiverse.com/thing:4888932)  
 
 **Table of Contents**  
