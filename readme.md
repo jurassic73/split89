@@ -157,7 +157,7 @@ QMK Configurator support means you can create a custom firmware for this keyboar
 
   [QMK Configurator](https://config.qmk.fm/#/handwired/split89/LAYOUT)
 
-  To download the default layout firmware, go to the above link, click 'COMPILE' in the upper right corner and you'll see a popup noting that firmware is being compiled.  Once the firmware generation is complete, click the 'FIRMWARE' button to download the hex file.  The reason you download  from this page is so if you want to customize the keymap, you can do so.
+  To download the default layout firmware, go to the above link, click 'COMPILE' in the upper right corner and you'll see a popup noting that firmware is being compiled.  Once the firmware generation is complete, click the 'FIRMWARE' button to download the hex file.  The reason you download from this page is so if you want to customize the keymap, you can do so.  There are different colorways to view different color schemes.  These do not affect the keymap.
 
   Next, download and install QMK Toolbox.  You will use this to flash the hex file onto the controllers.  
   QMK Toolbox - [wiki](https://github.com/qmk/qmk_toolbox) - [downloads](https://github.com/qmk/qmk_toolbox/releases)  
