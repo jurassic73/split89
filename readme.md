@@ -25,7 +25,7 @@ QMK Configurator support means you can create a custom firmware for this keyboar
 7)  [Programming the controllers](#programming-the-controllers)  
 8)  [Installing the base plates](#installing-the-base-plates)  
 9)  [Wrap the wrist bases and rests](#wrap-the-wrist-bases-and-rests)  
-10) [Mount the wrist rests](#mount-the-wrist-rests)  
+10) [Mount the wrist bases and rests](#mount-the-wrist-bases-and-rests) 
 11) [Install rubber feet](#install-rubber-feet)  
 
 **My Personal Build**  
