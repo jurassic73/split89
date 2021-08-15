@@ -266,6 +266,7 @@ Soldering Iron - [Hakko FX888D](https://www.amazon.com/Hakko-FX888D-23BY-Digital
 Solder - [Kester 24-6337-0010](https://www.amazon.com/gp/product/B00068IJWC/)  
 Side Cutter - [IGAN-170](https://www.amazon.com/gp/product/B07GR7QF63/)  
 Adjustable Wire Stripper - [Jonard Tools WS-5](https://www.amazon.com/Jonard-Tools-Adjustable-Stripper-10-30AWG/dp/B00WJPRKIY/)  
+Vice - [3d Printed Vice](https://www.thingiverse.com/thing:2064269)
 
 ### GMK Info
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information.  
