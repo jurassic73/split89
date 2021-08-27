@@ -124,7 +124,7 @@ QMK Configurator support means you can create a custom firmware for this keyboar
 
 ![image](https://i.imgur.com/z1nk4RV.jpg)  
 
-  For an easier installation and cleaner final result, I opted to put a few nails in a board(1 cm apart center to center) with a line perpendicular to the nail's alignment, to help me put consistent 90 degree bends in them at the right lengths.  The bottom will get a 90 degree bend. The top gets a 90 as well but then you'll use a pair of needle nose pliers to make a loop.  This loop will go over one of the legs of the switches for easier soldering.  Ensure that you have the black marked end of the diode facing the 90, not the loop.  This is critical for your keyboard to operate.  One of my diodes was backwards and the key at that location will simply not work.
+  For an easier installation and cleaner final result, I opted to put a few nails in a board(1 cm apart center to center) with a line perpendicular to the nail's alignment, to help me put consistent 90 degree bends in them at the right lengths.  The bottom will get a 90 degree bend. The top gets a 90 as well but then you'll use a pair of needle nose pliers to make a loop.  This loop will go over one of the legs of the switches for easier soldering.  Ensure that you have the black marked end of the diode facing the 90, not the loop.  This is critical for your keyboard to operate.  One of my diodes was backwards and the key at that location would simply not work til I fixed the diode position.
 
 ### Installing the diode rows
 
