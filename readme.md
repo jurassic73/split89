@@ -91,6 +91,8 @@ QMK Configurator support means you can create a custom firmware for this keyboar
 
   I printed all of my pieces using SunLu Gray PETG.  PETG is less rigid vs PLA and holds it's shape better over time vs PLA.  Also figured since it's less rigid, it'd be less resonant to key presses.
   
+  You should only need one roll of filament for the exposed color pieces.  That is, if you're covering your wrist pads with vinyl, you should be able to print your wrist bases, bodies, body bases and electronic plate parts out of a single roll of filament and your wrist pads with whatever other color since you're covering them up with vinyl.
+  
   For these larger pieces, I found that turning off my cooling fan helped these pieces avoid warping off of the bed.
 
     split89_left_body.stl  
