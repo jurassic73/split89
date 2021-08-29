@@ -263,11 +263,15 @@ Sounds like a lot and it is but if you build this, you will be stoked at the res
 
 ![image](https://i.imgur.com/KheWpgT.jpg)
 
+![image](https://i.imgur.com/pApi5FN.jpg)
+
 ### My personal build main hardware
 Filament - [SUNLU Grey PETG](https://www.amazon.com/gp/product/B07Y5TCH9V/)  
 Keyswitches - [Alpaca Linear](https://www.primekb.com/products/alpaca-linears?variant=37633188888739)  
-Keycaps - [GMK White on Black](https://drop.com/buy/gmk-white-on-black-custom-keycap-set)  
-Car wrap vinyl [3m Black Carbon Fiber](https://www.ebay.com/itm/172810319316)  
+Keycaps
+- [GMK White on Black](https://drop.com/buy/gmk-white-on-black-custom-keycap-set)  
+- [AKKO Carbon Retro](https://www.amazon.com/EPOMAKER-Double-Shot-Mechanical-Keyboard-Replacement/dp/B08XJSFTCB)  
+Car wrap vinyl - [3m Black Carbon Fiber](https://www.ebay.com/itm/172810319316)  
 TRS Cable - [CableCreation 1.5ft](https://www.amazon.com/gp/product/B01K3WYJBK/)  
 
 ### My Tools
