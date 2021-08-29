@@ -245,6 +245,14 @@ QMK Configurator support means you can create a custom firmware for this keyboar
 
 Congrats!  You're done!  Happy Typing!  
 
+Couple numbers for this build...
+
+    347 solder points
+
+    77.4 hour print time
+
+Sounds like a lot and it is but if you build this, you will be stoked at the result and your efforts put in to it won't be in vain... least it was not for me.  This is my daily driver now and I use it all day long at work and afterwards.  I've built this twice now.  Stoked with the results of each build.
+
 ### My personal build
 
 ![image](https://i.imgur.com/1vM3v0t.jpg)
