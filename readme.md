@@ -4,7 +4,7 @@
 
 This keyboard build was inspired by the Microsoft Ergonomic 4000 keyboard I used for roughly 12 years or so.  I broke my left wrist twice over the years so an ergo keyboard is a must for me to type comfortably all day long else my left wrist starts to burn after a few hours of typing on a regular keyboard.  This is a real bummer since there are so many amazing keyboards out there.  I could not find a split TKL like this layout so I designed one.  This has a 6° tent and a 3° incline.  I designed this to sit as low as possible with these angles on a table.  One key switch is actually in a recess in the baseplate with a few mm of material below it.
 
-The left half has an extra key on the bottom row so you can shift to other layers.  The [default keymap below](#programming-the-controllers) illustrates this.
+The left half has an extra key on the bottom row so you can shift to other layers.  The [default keymap below](#programming-the-controllers) illustrates this.  Verify the keycaps you shop for has eight 1.25u keys for this row. You'll also need to source 2.25 and 2.75 space bars. Reversed shift keys often work well in this position and provide your thumbs with a more agreeable landing surface angle.  I will be checking out the DSA profile space keys that [pimpmykeyboard.com](https://pimpmykeyboard.com/dsa-individual-keys/) offers and will update this wiki when I get that done.
 
 QMK Configurator support means you can create a custom firmware for this keyboard with your own keymaps/layers or simply download the existing keymap firmware via the [QMK Configurator](https://config.qmk.fm/#/handwired/split89/LAYOUT) page.
 
