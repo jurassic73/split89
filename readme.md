@@ -270,7 +270,8 @@ Filament - [SUNLU Grey PETG](https://www.amazon.com/gp/product/B07Y5TCH9V/)
 Keyswitches - [Alpaca Linear](https://www.primekb.com/products/alpaca-linears?variant=37633188888739)  
 Keycaps
 - [GMK White on Black](https://drop.com/buy/gmk-white-on-black-custom-keycap-set)  
-- [AKKO Carbon Retro](https://www.amazon.com/EPOMAKER-Double-Shot-Mechanical-Keyboard-Replacement/dp/B08XJSFTCB)  
+- [AKKO Carbon Retro](https://www.amazon.com/EPOMAKER-Double-Shot-Mechanical-Keyboard-Replacement/dp/B08XJSFTCB)
+
 Car wrap vinyl - [3m Black Carbon Fiber](https://www.ebay.com/itm/172810319316)  
 TRS Cable - [CableCreation 1.5ft](https://www.amazon.com/gp/product/B01K3WYJBK/)  
 USB Cable / magnetic disconnect - [NetDot Gen7 Magnetic Charging Cable](https://www.amazon.com/gp/product/B01MZ634EJ/)
