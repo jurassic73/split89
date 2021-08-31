@@ -72,7 +72,7 @@ QMK Configurator support means you can create a custom firmware for this keyboar
     (2)  4mm  
     (6) washers  
     (6) nylock nuts  
-  * Car wrap vinyl [Ebay](https://www.ebay.com/sch/i.html?_nkw=carbon+fiber+vinyl+wrap+3M) - for covering wrist rest pad pieces.  The 3d printed surfaces are rough and can hold stuff so putting this on makes them a more comfortable contact surface and easy to clean.  There are videos for applying with a heat gun/hair dryer to soften at the corners to stretch around them for a smooth finish.
+  * Car wrap vinyl - [Ebay](https://www.ebay.com/sch/i.html?_nkw=carbon+fiber+vinyl+wrap+3M) - for covering wrist rest pad pieces.  The 3d printed surfaces are rough and can hold stuff so putting this on makes them a more comfortable contact surface and easy to clean.  There are videos for applying with a heat gun/hair dryer to soften at the corners to stretch around them for a smooth finish.
     (2) 8 1/2" x 11" sheets
   * (18) Rubber feet - [Amazon](https://www.amazon.com/gp/product/B00K6RZ9Q2/) - 144 pack
 
@@ -81,7 +81,7 @@ QMK Configurator support means you can create a custom firmware for this keyboar
   * [Micro flush cutters](https://www.amazon.com/s?k=micro+flush+cutters) - these not only cut wire but have one side flattened so you can cut items flush with a surface like on the back of the Pro Micro where some wires may be sticking out beyond the solder.
   * [Tweezers](https://www.amazon.com/s?k=electronics+tweezers) - there are a ton of options out there.  Something with a long narrow end and serrations for grip are very handy to move things around or hold them in position while soldering.
   * [Blue tack](https://www.amazon.com/s?k=blue+tack) - this stuff is typically used to mount things on other things like cardboard or paper but a chunk works great to hold things in position while you solder.  Just don't heat up objects too long or it can get a little sticky.
-  * [Vice](https://www.thingiverse.com/thing:2064269) - great tool to have in your toolbox for holding small items.
+  * [Vice](https://www.thingiverse.com/thing:2064269) - great tool to have in your toolbox for holding small items like the TRRS and Pro Micro boards when soldering.
 
 # Assembly
 
