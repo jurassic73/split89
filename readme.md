@@ -271,10 +271,9 @@ Keyswitches - [Alpaca Linear](https://www.primekb.com/products/alpaca-linears?va
 Keycaps
 - [GMK White on Black](https://drop.com/buy/gmk-white-on-black-custom-keycap-set)  
 - [AKKO Carbon Retro](https://www.amazon.com/EPOMAKER-Double-Shot-Mechanical-Keyboard-Replacement/dp/B08XJSFTCB)  
-
 Car wrap vinyl - [3m Black Carbon Fiber](https://www.ebay.com/itm/172810319316)  
 TRS Cable - [CableCreation 1.5ft](https://www.amazon.com/gp/product/B01K3WYJBK/)  
-
+USB Cable / magnetic disconnect - [NetDot Gen7 Magnetic Charging Cable](https://www.amazon.com/gp/product/B01MZ634EJ/)
 ### My Tools
 3D Printer - [Prusa MK3s](https://shop.prusa3d.com/en/3d-printers/180-original-prusa-i3-mk3s-kit.html)  
 Soldering Iron - [Hakko FX888D](https://www.amazon.com/Hakko-FX888D-23BY-Digital-Soldering-Station/dp/B00ANZRT4M/)  
