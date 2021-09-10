@@ -40,11 +40,11 @@ QMK Configurator support means you can create a custom firmware for this keyboar
       split89_electronics_plate_left.stl  
       split89_electronics_plate_right.stl  
       split89_left_body.stl  
-      split89_left_body_base.stl or split89_left_body_base_no_pillar.stl *
+      split89_left_body_base.stl or split89_left_body_base_no_pillar.stl *  
       split89_left_wrist_base.stl  
       split89_left_wrist_pad.stl  
       split89_right_body.stl  
-      split89_right_body_base.stl or split89_right_body_base_no_pillar.stl *
+      split89_right_body_base.stl or split89_right_body_base_no_pillar.stl *  
       split89_right_wrist_base.stl  
       split89_right_wrist_pad.stl  
     **Print two of each:**  
