@@ -51,8 +51,8 @@ QMK Configurator support means you can create a custom firmware for this keyboar
       split89_arduino_brace.stl  
       split89_reset_button_brace.stl  
       split89_trrs_jack_brace.stl  
-      \* Note - there are two versions of the base plates.  The original has bolt holes and a partial pillar to connect to the body in the middle of the large surfaces to couple the base to the main body surface for a tighter sound.  I added base plates that are void of these pillars/bolt holes which decouples the two large surfaces in the middle for a slightly deeper typing sound.  I prefer the latter but a user can try both to see which they prefer.
-   ![image](https://i.imgur.com/Km8BYtz.png)  
+        \* Note - there are two versions of the base plates.  The original has bolt holes and a partial pillar to connect to the body in the middle of the large surfaces to couple the base to the main body surface for a tighter sound.  I added base plates that are void of these pillars/bolt holes which decouples the two large surfaces in the middle for a slightly deeper typing sound.  I prefer the latter but a user can try both to see which they prefer.
+     ![image](https://i.imgur.com/Km8BYtz.png)  
 
   * (2) Pro Micro ATmega32U4 (5v 16MHz USB micro)  
 ![image](https://i.imgur.com/ckrUOlK.png)  
