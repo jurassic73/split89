@@ -8,6 +8,8 @@ The left half has an extra key on the bottom row so you can shift to other layer
 
 QMK Configurator support means you can create a custom firmware for this keyboard with your own keymaps/layers or simply download the existing keymap firmware via the [QMK Configurator](https://config.qmk.fm/#/handwired/split89/LAYOUT) page.
 
+Given you have all tools required, you can build this keyboard for roughly $120 in materials minimum that I can find.  My builds were average $150-$200 or so in materials.
+
 **External Links**  
 [QMK Configurator](https://config.qmk.fm/#/handwired/split89/LAYOUT) - keymap/firmware generator  
 [Thingiverse ](https://www.thingiverse.com/thing:4888932)  
