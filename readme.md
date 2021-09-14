@@ -152,7 +152,7 @@ Given you have all tools required, you can build this keyboard for roughly $120 
 
   The tactile reset switch is not directional.  i.e. the two wires connecting to them just need to connect to two contacts that come out the same side of the switch.
 
-  I would highly recommend putting all jumpers required, in place on the pro micro, before mounting the pro micro on the electronics plate.  
+  I would highly recommend putting all jumpers required, in place on the pro micro, before mounting the pro micro on the electronics plate.   If the pro micro boards are a snug fit, you can either sand or scrape the edge of the PCB (exposed edge next to the pins) lightly and then try refitting.  I found that most of my boards installed fine while I had two that had somewhat rough edges which didn't allow them to slide in to place.  After scraping the edges a touch, they slid in to place on the electronics plates fine.
 
 ![image](https://i.imgur.com/Eb7rLX7.jpg)
   
@@ -161,6 +161,8 @@ Given you have all tools required, you can build this keyboard for roughly $120 
   The pins on the pro micro need to be connected to the respective rows and columns of the keyboard matrix.  They can be connected at any point of the column or row.  On the row connection, connect to the common connection across all diodes, not on the switch side of a diode.
   
   I cut 8" wires again, six at a time, to connect to my pro micro and then tied them to the matrix as you can see below.  I had some scrap left over but it's worth it for ease of install to ensure everything can reach with slack to give you routing options.
+
+
 
 ### Programming the controllers
 
