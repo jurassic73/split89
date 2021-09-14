@@ -162,8 +162,6 @@ Given you have all tools required, you can build this keyboard for roughly $120 
   
   I cut 8" wires again, six at a time, to connect to my pro micro and then tied them to the matrix as you can see below.  I had some scrap left over but it's worth it for ease of install to ensure everything can reach with slack to give you routing options.
 
-
-
 ### Programming the controllers
 
   [QMK Configurator](https://config.qmk.fm/#/handwired/split89/LAYOUT)
