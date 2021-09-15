@@ -205,7 +205,7 @@ Given you have all tools required, you can build this keyboard for roughly $120 
 
   M3 screw size
 
-![image](https://i.imgur.com/qCNEOkp.png)  
+![image](https://i.imgur.com/1FpEy1G.png)  
 
   You can install the base plates at this point knowing your keyboard electronics build is fully functional.  I created many joints between the base plates and the main bodies(hence all the screws) to minimize the drumming sound of a large surface with nothing below it.  Especially with plastic vs say aluminum.  
   
