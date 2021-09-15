@@ -72,10 +72,9 @@ Given you have all tools required, you can build this keyboard for roughly $120 
   * M3 Hardware  [Amazon](https://www.amazon.com/s?k=m3+hardware) - [Aliexpress](https://www.aliexpress.com/item/10000150053486.html)  
   ![image](  https://i.imgur.com/p5mSBJr.png)  
     (6)  20mm  
-    (33) 10mm  
-    (3)  8mm  
-    (4)  6mm  
-    (2)  4mm  
+    (34) 10mm  
+    (5)  8mm  
+    (3)  6mm  
     (6) washers  
     (6) nylock nuts  
   * Car wrap vinyl - [Ebay](https://www.ebay.com/sch/i.html?_nkw=carbon+fiber+vinyl+wrap+3M) - for covering wrist rest pad pieces.  The 3d printed surfaces are rough and can hold stuff so putting this on makes them a more comfortable contact surface and easy to clean.  There are videos for applying with a heat gun/hair dryer to soften at the corners to stretch around them for a smooth finish.
