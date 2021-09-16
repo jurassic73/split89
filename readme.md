@@ -112,7 +112,7 @@ Given you have all tools required, you can build this keyboard for roughly $120 
     split89_right_wrist_base.stl  
     split89_right_wrist_pad.stl  
 
-  Other things to note... I changed the perimeter count to five from the default 2 in my slicer for the larger pieces as well.  I wanted heavier/denser pieces so my bases didn't sound so hollow.  Last, I printed these with a brim and turned off elephant foot compensation(EFC).  The EFC creates a gap between the brim and the body(currently the Prusa slicer behavior) which defeats what your brim is attempting to do, avoid lifting off the print bed. 
+  Other things to note... I changed the perimeter count to five from the default 2 in my slicer for the larger pieces as well.  I wanted heavier/denser pieces so my bases didn't sound so hollow.  Last, you need to make sure your first layer has good adhesion so your parts don't lift off.  I cleaned my bed between every print, well, with isopropyl alcohol when printing in PLA.  PLA seems to leave something behind so cleaning after every print ensured good adhesion.  I did try to use a brim and turn off EFC(Elephant Foot Compensation) but this mucked up the keyswitch holes and the elephant foot created in those keyswitch holes, without EFC, made the hole too tight for the switches and pressed in enough on them to deform them and affect their funciton.  Prusa Slicer's brim is not conencted to the body currently if you use EFC.  They're fixing that down the road.  tl;dr - clean your bed well, good first layer adhesion - if using Prusa Slicer, disable brim and keep EFC enabled.
 
   The remaining pieces for the electronics plates I printed using the default Prusa slicer settings.
   
