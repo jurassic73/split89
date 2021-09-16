@@ -99,7 +99,7 @@ Given you have all tools required, you can build this keyboard for roughly $120 
   
   You should only need one roll of filament for the exposed color pieces.  That is, if you're covering your wrist pads with vinyl, you should be able to print your wrist bases, bodies, body bases and electronic plate parts out of a single roll of filament and your wrist pads with whatever other color since you're covering them up with vinyl.
   
-  For these larger pieces, I found that turning off my cooling fan helped these pieces avoid warping off of the bed.
+  I tried turning off cooling for some prints which helped avoid warping but found out it was more due to my bed adhesion/first layer adjustment.
 
     split89_left_body.stl  
     split89_left_body_base.stl  
