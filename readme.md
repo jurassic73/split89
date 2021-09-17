@@ -293,6 +293,6 @@ Machine Vice - [3d Printed Machine Vice](https://www.thingiverse.com/thing:20642
 ### GMK Info
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information.  
 
-Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).  
+Brand new to QMK? Start with the [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).  
 
 [QMK github](https://github.com/qmk/qmk_firmware)  
