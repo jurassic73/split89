@@ -152,9 +152,9 @@ Given you have all tools required, you can build this keyboard for roughly $120 
 
   Per the diagram, using insulated wire, you will solder the 5-6 pins per column together.  To do this, I would cut 8" pieces at a time.  Easiest way is to just pull all six colors at once and cut them together.  Remove 1/2" of insulation from one end and make a loop similar to the diodes.  Put this on the pin of the switch at one end of the column.  Next, you'll need to figure out where you need to expose the wire.  I'd put the wire on the first pin and then bend the wire where the next pin is located.  I used a set of wire strippers(which you can set how far they close) to cut the jacket(not the wire) and then, holding the looped end, pull the insulation a bit to expose 1/4" of wire.  I'd repeat threading the wire in place to find where to cut and eventually end up with a piece of wire with gaps where I needed to solder.  Some folks use an x-acto knife to open the wire insulation where needed.  Others use a soldering iron to just melt the jacket away.  At any rate, you'll build these column wires and solder them into place per the diagram.
 
- ![image](https://i.imgur.com/LlCcYc1.jpeg)
- 
 ![image](https://i.imgur.com/osNvp7X.jpg)  
+
+![image](https://i.imgur.com/LlCcYc1.jpeg)
 
 ### Wiring the controller, reset button and TRRS jack
   
