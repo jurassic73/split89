@@ -143,9 +143,16 @@ Given you have all tools required, you can build this keyboard for roughly $120 
 
   Each keyswitch requires a diode.  I installed these one row at a time.  I would put all diodes in place for the row I was soldering.  The diode at the far right column had it's 90 leg snipped short.  Once all are laid in place, solder from left to right.  I used the cut off legs to cover the distance between the keys in rows that were further apart for appearance.  You could just jumper these spans with wire as well.
 
+![image](https://i.imgur.com/NL9UTmt.jpg)  
+
+![image](https://i.imgur.com/qr8qbID.jpg)  
+
+
 ### Installing the columns
 
   Per the diagram, using insulated wire, you will solder the 5-6 pins per column together.  To do this, I would cut 8" pieces at a time.  Easiest way is to just pull all six colors at once and cut them together.  Remove 1/2" of insulation from one end and make a loop similar to the diodes.  Put this on the pin of the switch at one end of the column.  Next, you'll need to figure out where you need to expose the wire.  I'd put the wire on the first pin and then bend the wire where the next pin is located.  I used a set of wire strippers(which you can set how far they close) to cut the jacket(not the wire) and then, holding the looped end, pull the insulation a bit to expose 1/4" of wire.  I'd repeat threading the wire in place to find where to cut and eventually end up with a piece of wire with gaps where I needed to solder.  Some folks use an x-acto knife to open the wire insulation where needed.  Others use a soldering iron to just melt the jacket away.  At any rate, you'll build these column wires and solder them into place per the diagram.
+
+![image](https://i.imgur.com/osNvp7X.jpg)  
 
 ### Wiring the controller, reset button and TRRS jack
   
@@ -162,6 +169,10 @@ Given you have all tools required, you can build this keyboard for roughly $120 
   The pins on the pro micro need to be connected to the respective rows and columns of the keyboard matrix.  They can be connected at any point of the column or row.  On the row connection, connect to the common connection across all diodes, not on the switch side of a diode.
   
   I cut 8" wires again, six at a time, to connect to my pro micro and then tied them to the matrix as you can see below.  I had some scrap left over but it's worth it for ease of install to ensure everything can reach with slack to give you routing options.
+
+![image](https://i.imgur.com/q0PjyJa.jpg)
+
+![image](https://i.imgur.com/Dztlb0R.jpg)
 
 ### Programming the controllers
 
