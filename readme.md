@@ -139,7 +139,7 @@ Given you have all tools required, you can build this keyboard for roughly $120 
 
 ### Installing the diode rows
 
-![image](https://i.imgur.com/ubl9aWD.png)
+![image](https://i.imgur.com/gJlS6R1.png)
 
   Each keyswitch requires a diode.  I installed these one row at a time.  I would put all diodes in place for the row I was soldering.  The diode at the far right column had it's 90 leg snipped short.  Once all are laid in place, solder from left to right.  I used the cut off legs to cover the distance between the keys in rows that were further apart for appearance.  You could just jumper these spans with wire as well.
 
