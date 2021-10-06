@@ -63,6 +63,7 @@ Given you have all tools required, you can build this keyboard for roughly $120 
       * [Aliexpress](https://www.aliexpress.com/af/atmega32u4.html) (usually cheaper if you have time to wait for slower shipping)  
   * (1) 3.5mm TRS or TRRS male to male cable - [EBay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=trs+3.5+male+to+male%2C+trrs+3.5+male+to+male&_odkw=trs+3.5%2C+trrs+3.5) - only three pins in the TRS positions are being used so TRS or TRRS are acceptable to use for connectivity between the halves.  There are some with two 90° plugs if desired for a compact fit. T = tip, R = ring, S = sleeve.
   * (2) TRRS breakout boards - [Aliexpress](https://www.aliexpress.com/wholesale?SearchText=trrs+audio+socket+breakout)
+  * (1) 2k-10k resistor - [Aliexpress](https://www.aliexpress.com/item/32952657927.html)
   * (2) Tactile Micro vertical mount switch (6mmx6mmx8mm total height / 4.5mm button height) - [Aliexpress](https://www.aliexpress.com/item/4000543708838.html?spm=a2g0s.9042311.0.0.27424c4dCLLkyk)
   * (1) USB micro cable - only one side needs to be connected to your computer so only one USB cable is required.  I like the magnetic disconnect USB cable I listed towards the bottom of this document.  Make it easy to disconnect the USB cable when needed.  The cable needs to be connected to the keyboard with the LED on the cord plug facing upwards for proper connectivity.
   * (89) keyswitches - [NovelKeys](https://novelkeys.xyz/collections/switches/products/gateron-switches?variant=37302529851559) - example switch to use - I'm a fan of linears.  If you're not sure which keyswitch type you'd like, there are [keyswitch testers](https://www.amazon.com/s?k=key+switch+tester) out there to help you make your decision.
@@ -156,7 +157,7 @@ Given you have all tools required, you can build this keyboard for roughly $120 
 
 ![image](https://i.imgur.com/LlCcYc1.jpeg)
 
-### Wiring the controller, reset button and TRRS jack
+### Wiring the controller, reset button, TRRS jack, jumper and resistor
   
   Note: keep good length wires to the reset switch, TRRS jack plate and off to the matrix from the controller in such a way that you can route them to lie flat enough so you can properly install the base plate.  Note the base plate has a rim as well.  If the wires are stacked too high, you won't be able to install the base plate correctly (made this mistake myself and had to install longer wires so they could route properly to lay flat).
 
@@ -171,6 +172,8 @@ Given you have all tools required, you can build this keyboard for roughly $120 
   The pins on the pro micro need to be connected to the respective rows and columns of the keyboard matrix.  They can be connected at any point of the column or row.  On the row connection, connect to the common connection across all diodes, not on the switch side of a diode.
   
   I cut 8" wires again, six at a time, to connect to my pro micro and then tied them to the matrix as you can see below.  I had some scrap left over but it's worth it for ease of install to ensure everything can reach with slack to give you routing options.
+
+  There is a jumper and resistor that need to be installed.  The wire jumper ties it's pin low to ground(right half).  The resistor ties it's pin high(left half).  This is done so the Arduino knows which side is which to apply the firmware accordingly to what you've wired out.
 
 ![image](https://i.imgur.com/q0PjyJa.jpg)
 
