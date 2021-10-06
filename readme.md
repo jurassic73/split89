@@ -173,7 +173,7 @@ Given you have all tools required, you can build this keyboard for roughly $120 
   
   I cut 8" wires again, six at a time, to connect to my pro micro and then tied them to the matrix as you can see below.  I had some scrap left over but it's worth it for ease of install to ensure everything can reach with slack to give you routing options.
 
-  There is a jumper and resistor that need to be installed.  The wire jumper ties it's pin low to ground(right half).  The resistor ties it's pin high(left half).  This is done so the Arduino knows which side is which to apply the firmware accordingly to what you've wired out.
+  There is a jumper and resistor that need to be installed on the pro micro boards to tie pins to high and low.  The wire jumper ties it's pin low to ground(right half).  The resistor ties it's pin high to VCC(left half).  This is done so the Arduino knows which side is which to apply the firmware accordingly to what you've wired out.
 
 ![image](https://i.imgur.com/q0PjyJa.jpg)
 
