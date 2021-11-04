@@ -62,7 +62,7 @@ Given you have all tools required, you can build this keyboard for roughly $120 
       * [EBay](https://www.ebay.com/sch/i.html?_nkw=pro+micro+atmega32u4)  
       * [Aliexpress](https://www.aliexpress.com/af/atmega32u4.html) (usually cheaper if you have time to wait for slower shipping)  
   * (1) 3.5mm TRS or TRRS male to male cable - [EBay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=trs+3.5+male+to+male%2C+trrs+3.5+male+to+male&_odkw=trs+3.5%2C+trrs+3.5) - only three pins in the TRS positions are being used so TRS or TRRS are acceptable to use for connectivity between the halves.  There are some with two 90° plugs if desired for a compact fit. T = tip, R = ring, S = sleeve.
-  * (2) TRRS breakout boards - [Aliexpress](https://www.aliexpress.com/wholesale?SearchText=trrs+audio+socket+breakout)
+  * (2) TRRS breakout boards - [Aliexpress](https://www.aliexpress.com/wholesale?SearchText=trrs+audio+socket+breakout) [Amazon](https://www.amazon.com/s?k=trrs+board&Go=Search+Amazon)
   * (1) 2k-10k resistor - [Aliexpress](https://www.aliexpress.com/item/32952657927.html)
   * (2) Tactile Micro vertical mount switch (6mmx6mmx8mm total height / 4.5mm button height) - [Aliexpress](https://www.aliexpress.com/item/4000543708838.html?spm=a2g0s.9042311.0.0.27424c4dCLLkyk)
   * (1) USB micro cable - only one side needs to be connected to your computer so only one USB cable is required.  I like the magnetic disconnect USB cable I listed towards the bottom of this document.  Make it easy to disconnect the USB cable when needed.  The cable needs to be connected to the keyboard with the LED on the cord plug facing upwards for proper connectivity.
