@@ -181,10 +181,6 @@ Given you have all tools required, you can build this keyboard for roughly $120 
 
 ### Programming the controllers
 
-  Default keyboard firmware to flash with QMK Toolbox (open link and right click file content area and save as split89_default.hex (might have to remove .txt extension) ) - [split89_default.hex](https://raw.githubusercontent.com/jurassic73/split89/main/split89_default.hex)
-
-  **NOTE: 10/19/21 - it's been noted that the generated hex from QMK configurator is having issues(columns are shifted). I'm troubleshooting this and will update this page when fixed. It was good initially but something has changed and needs fixing.  Use the above hex file to configure your keyboard until then.  I've verified the above method works on my own keyboard.**
-
   [QMK Configurator](https://config.qmk.fm/#/handwired/split89/LAYOUT)
 
   To download the default layout firmware, go to the above link, click 'COMPILE' in the upper right corner and you'll see a popup noting that firmware is being compiled.  Once the firmware generation is complete, click the 'FIRMWARE' button to download the hex file.  The reason you download from this page is so if you want to customize the keymap, you can do so.  There are different colorways to view different color schemes.  These do not affect the keymap.
