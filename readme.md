@@ -10,7 +10,7 @@ QMK Configurator support means you can create a custom firmware for this keyboar
 
 Given you have all tools required, you can build this keyboard for roughly $120 in materials minimum that I can find.  My builds were average $150-$200 or so in materials.
 
-If you end up building this keyboard, please share your build here as a make! [prusaprinters.org split89](https://www.prusaprinters.org/prints/75599-split89)  I was happy with the result of this build for my own use and put this document together to share this design and hopefully help others looking to build a split TKL.  Seeing your build would be awesome!
+If you end up building this keyboard, please share your build here as a make! [prusaprinters.org split89](https://www.prusaprinters.org/prints/75599-split89)  I was happy with the result of this build for my own use and put this document together to share this design and hopefully inspire/help others looking to build a split TKL.  Seeing your build would be awesome!
 
 **External Links**  
 [QMK Configurator](https://config.qmk.fm/#/handwired/split89/LAYOUT) - keymap/firmware generator  
