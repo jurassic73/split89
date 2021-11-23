@@ -185,7 +185,7 @@ If you end up building this keyboard, please share your build here as a make! [p
 
   Default keyboard firmware to flash with QMK Toolbox (open link and right click file content area and save as split89_default.hex (might have to remove .txt extension) ) - [split89_default.hex](https://raw.githubusercontent.com/jurassic73/split89/main/split89_default.hex)
 
-  **NOTE: 10/19/21 - it's been noted that the generated hex from QMK configurator is having issues(columns are shifted). I'm troubleshooting this and will update this page when fixed. It was good initially but something has changed and needs fixing.  Use the above hex file to configure your keyboard until then.  I've verified the above method works on my own keyboard.**
+  **NOTE: 11/22/21 - it's been noted that the generated hex from QMK configurator is having issues(columns are shifted). I'm troubleshooting this and will update this page when fixed. It was good initially but something has changed and needs fixing.  Use the above hex file to configure your keyboard until then.  I've verified the above method works on my own keyboard.**
 
   [QMK Configurator](https://config.qmk.fm/#/handwired/split89/LAYOUT)
 
