@@ -104,25 +104,29 @@ If you end up building this keyboard, please share your build here as a make! [p
   You should only need one roll of filament for the exposed color pieces.  That is, if you're covering your wrist pads with vinyl, you should be able to print your wrist bases, bodies, body bases and electronic plate parts out of a single roll of filament and your wrist pads with whatever other color since you're covering them up with vinyl.
 
 **Body Piece/Base Print Notes**
-  **Surface Texture** - The body pieces have the most visible surfaces and I preferred to use a textured print plate as that textured surface hides print lines really well and if you scratch it over time, the texture can kinda hide that wear.  
-  **Surface Prep** - Unless you know your pieces will stick well, wash your build plate before printing each of these with Joy or Dawn dish washing soap.  This seems to remove all PLA residue for me and ensures a clean print.  You're gonna be staring at this top surface of the body the most, ensure you get a good print with good adhesion.
-  **PLA** - printbed at 60C helped ensure minimum warping.  I printed at 215C with the matte PLA.
-  **PETG** - I used the default settings - I had some lifting in the corners.
 
     split89_left_body.stl  
     split89_left_body_base.stl or split89_left_body_base_no_pillar.stl  
     split89_right_body.stl  
     split89_right_body_base.stl or split89_right_body_base_no_pillar.stl  
-    
-  Other things to note... 
-  **Perimeter** - I changed the perimeter count to five from the default 2 in my slicer for the larger body pieces as well.  I wanted heavier/denser pieces so my bases didn't sound so hollow.  
-  **Brim** - not needed with good bed adhesion and may not work since you need to enable Elephant Foot Compensation(EFC) to ensure your keyswitches are true.
- **Elephant Foot Compensation** - disabling EFC mucked up the keyswitch holes.  With EEC disabled, the keyswitch holes were too tight for the switches and squeezed them enough to deform them and affect their funciton(the stem was getting stuck).  Prusa Slicer's brim is not conencted to the body currently if you use EFC.  They're fixing that down the road.  
- **tl;dr** - clean your bed well between prints, good first layer adhesion - if using Prusa Slicer, disable brim and keep EFC enabled.
 
-  The remaining pieces for the wrist pad, bases and electronics plates I printed using the default Prusa slicer settings.
+  **Surface Texture** - The body pieces have the most visible surfaces and I preferred to use a textured print plate as that textured surface hides print lines really well and if you scratch it over time, the texture can kinda hide that wear.  
   
-  A de-burring tool works great to remove the brim in a clean way from the large pieces.
+  **Surface Prep** - Unless you know your pieces will stick well, wash your build plate before printing each of these with Joy or Dawn dish washing soap.  This seems to remove all PLA residue for me and ensures a clean print.  You're gonna be staring at this top surface of the body the most, ensure you get a good print with good adhesion.
+  
+  **PLA** - printbed at 60C helped ensure minimum warping.  I printed at 215C nozzle temp with the matte PLA.
+  
+  **PETG** - I used the default settings - I had some lifting in the corners.
+
+  **Perimeter** - default 2 or 5 - I changed the perimeter count to five from the default 2 in my slicer for the body pieces as well.  I wanted heavier/denser pieces so my bases didn't sound so hollow.  
+
+  **Brim** - do no use - not needed with good bed adhesion and will cause issues as you need to disable Elephant Foot Compensation(EFC) so the brim attaches to the body correctly(currently the state with Prusa Slicer) but disabling EFC will cause major issues with your keyswitch holes(see next note).
+
+ **Elephant Foot Compensation** - leave enabled/required - disabling EFC mucked up the keyswitch holes.  With EEC disabled, the keyswitch holes were too tight for the switches and squeezed them enough to deform them and affect their funciton(the stem was getting stuck).  Prusa Slicer's brim is not conencted to the body currently if you use EFC.  They're fixing that down the road.  
+  
+  **Support** only needed for wrist pads.
+  
+   The remaining pieces for the wrist pads/bases and electronics plates I printed using the default Prusa slicer settings.
   
   All pieces were printed using .2mm layer height.  All .stl files should be printed as oriented.  The wrist rests use a bit of support material but I found it was the best orientation for the cleanest contact surface possible.
 
