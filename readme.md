@@ -101,7 +101,9 @@ If you end up building this keyboard, please share your build here as a make! [p
 ![image](https://i.imgur.com/u4bVIrw.jpg)  
 
   I've built four of these keyboards now.  One using SunLu Gray PETG and three using Eryone Matte PLA.  PETG is less rigid vs PLA and holds it's shape better over time under pressure like a bolted assembly vs PLA however this Matte has performed well as well and I would easily recommend it along side PETG and it prints easier.
-  
+
+  All pieces were printed using .2mm layer height.  All .stl files should be printed as oriented.  No supports with exception of the wrist rests which use a bit of support material but I found it was the best orientation for the cleanest contact surface possible.
+
   You should only need one roll of filament for the exposed color pieces.  That is, if you're covering your wrist pads with vinyl, you should be able to print your wrist bases, bodies, body bases and electronic plate parts out of a single roll of filament and your wrist pads with whatever other color since you're covering them up with vinyl.
 
 **Body Piece/Base Print Notes**
@@ -123,14 +125,12 @@ If you end up building this keyboard, please share your build here as a make! [p
 
   **Brim** - do no use - not needed with good bed adhesion and will cause issues as you need to disable Elephant Foot Compensation(EFC) so the brim attaches to the body correctly(currently the state with Prusa Slicer) but disabling EFC will cause major issues with your keyswitch holes(see next note).
 
- **Elephant Foot Compensation** - leave enabled/required  The designed printed keyswitch holes are 13.9mmx13.9mm.  A keyswitch is 14mmx14mm.  This .1mm designed difference creates a nice friction fit to secure the switch without deforming it.  Without EFT, any bit of resulting elephant foot deformation interferes with this design and can affect switch operation.  I found this out by disabling EFC. My switches were either too tight and it bound up the stem or the elephant foot was so much in one area that I could not insert my switches.  Keep enabled.
+ **Elephant Foot Compensation** - leave enabled/required  The designed printed keyswitch holes are 13.9mmx13.9mm.  A keyswitch is 14mmx14mm.  This .1mm designed difference creates a nice friction fit to secure the switch without deforming it.  Without EFT, any bit of resulting elephant foot deformation interferes with this design and can affect switch operation.  I found this out the hardway during one of my initial prints by disabling EFC. My switches were either too tight when installed and they were deforned and it bound up the stem or the elephant foot was so much in one area of one of the bodies, that I could not insert my switches.  **Keep EFC enabled.**
   
   **Support** only needed for wrist pads.
   
-   The remaining pieces for the wrist pads/bases and electronics plates I printed using the default Prusa slicer settings.
+   The remaining pieces for the wrist pads/bases and electronics plates I printed using the default Prusa slicer settings for PLA or PETG respectively.
   
-  All pieces were printed using .2mm layer height.  All .stl files should be printed as oriented.  The wrist rests use a bit of support material but I found it was the best orientation for the cleanest contact surface possible.
-
 ### Install keyswitches and stabs
 
 ![image](https://i.imgur.com/MWzUhMy.jpg)  
