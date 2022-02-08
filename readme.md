@@ -133,9 +133,9 @@ If you end up building this keyboard, please share your build here as a make! [p
   
 ### Install keyswitches and stabs
 
-![image](https://i.imgur.com/MWzUhMy.jpg)  
+![image](https://i.imgur.com/UcpQyLt.jpg)  
 
-![image](https://i.imgur.com/cqQreo9.jpg)  
+![image](https://i.imgur.com/9eiMjrX.jpg)  
 
   This keyboard has 13.9mm square holes for the keyswitches.  The keyswitches should press into place firmly.  The stabilizers insert and kinda rotate into their position as they are fully seated.  I took the time to disassemble and lube my keyswitches using Super Lube prior to installation.  Also added lube to my stabs.  This is not required but the few hours you put in to lubing your switches will be noticeable over many hours of use.  There are many videos out there on how to do this.
 
