@@ -123,7 +123,7 @@ If you end up building this keyboard, please share your build here as a make! [p
 
   **Brim** - do no use - not needed with good bed adhesion and will cause issues as you need to disable Elephant Foot Compensation(EFC) so the brim attaches to the body correctly(currently the state with Prusa Slicer) but disabling EFC will cause major issues with your keyswitch holes(see next note).
 
- **Elephant Foot Compensation** - leave enabled/required - disabling EFC mucked up the keyswitch holes.  With EEC disabled, the keyswitch holes were too tight for the switches and squeezed them enough to deform them and affect their funciton(the stem was getting stuck).  Prusa Slicer's brim is not conencted to the body currently if you use EFC.  They're fixing that down the road.  
+ **Elephant Foot Compensation** - leave enabled/required - disabling EFC mucked up the keyswitch holes.  With EFC disabled, the keyswitch holes were too tight for the switches and squeezed them enough, when pressed in to place, to deform them and affect their funciton(the stem was getting stuck).  Prusa Slicer's brim is not conencted to the body currently if you use EFC.  They're fixing that down the road.  The printed holes are 13.9mmx13.9mm.  A keyswitch is 14mmx14mm.  This difference creates a nice friction fit to secure the switch.  Any bit of elephant foot deformation interferes with this design and can affect switch operation as noted.  [info here](https://help.prusa3d.com/en/article/elephant-foot-compensation_114487/#:~:text=Adaptive%20elephant%20foot%20compensation&text=Values%20around%200.2%20mm%20usually,in%20PrusaSlicer%202.2%20and%20newer.)
   
   **Support** only needed for wrist pads.
   
