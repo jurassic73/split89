@@ -40,7 +40,7 @@ If you end up building this keyboard, please share your build here as a make! [p
 
 # Bill of Materials  
   * 3d printed components in [3d_printing_stl_files](https://github.com/jurassic73/split89/tree/main/3d_printing_stl_files) directory  
-    **See print notes below! Critical for successful printing!** [Print keyboard pieces](#print-keyboard-pieces)<br>
+    **See print notes below! ( [Print keyboard pieces](#print-keyboard-pieces) ) Critical for successful printing!** <br>
     **Print one of each:**  
       split89_electronics_plate_left.stl  
       split89_electronics_plate_right.stl  
