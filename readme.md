@@ -127,8 +127,8 @@ If you end up building this keyboard, please share your build here as a make! [p
 
  **Elephant Foot Compensation** - leave enabled/required  The designed printed keyswitch holes are 13.9mmx13.9mm.  A keyswitch is 14mmx14mm.  This .1mm designed difference creates a nice friction fit to secure the switch without deforming it.  Without EFT, any bit of resulting elephant foot deformation interferes with this design and can affect switch operation.  I found this out the hardway during one of my initial prints by disabling EFC. My switches were either too tight when installed and they were deforned and it bound up the stem or the elephant foot was so much in one area of one of the bodies, that I could not insert my switches.  **Keep EFC enabled.**
   
-  **Support** only needed for wrist pads.
-  
+  **Support** [easy to remove support settings](https://projects.ttlexceeded.com/3dprinting_techniques_removable_supports.html) - supports for this build are only needed for wrist pads. They can be very tough to cleanly remove from wide surfaces however I use the link.  I use, for my Prusa Slicer settings, these settings for easy to remove supports:
+ 
    The remaining pieces for the wrist pads/bases and electronics plates I printed using the default Prusa slicer settings for PLA or PETG respectively.
   
 ### Install keyswitches and stabs
