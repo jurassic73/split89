@@ -129,7 +129,9 @@ If you end up building this keyboard, please share your build here as a make! [p
   
   **Support** [easy to remove support settings](https://projects.ttlexceeded.com/3dprinting_techniques_removable_supports.html) - supports for this build are only needed for wrist pad pieces.  The supports can be very tough to remove easily/cleanly from wide surfaces however I use the settings in the link.  The supports,created with these settings, remove relatively easily/cleanly without much effort.
  
-   The remaining pieces for the wrist pads/bases and electronics plates I printed using the default Prusa slicer settings for PLA or PETG respectively.
+ ![image](https://i.imgur.com/VNW9OV7.jpg)
+ 
+ The remaining pieces for the wrist pads/bases and electronics plates I printed using the default Prusa slicer settings for PLA or PETG respectively.
   
 ### Install keyswitches and stabs
 
