@@ -40,6 +40,7 @@ If you end up building this keyboard, please share your build here as a make! [p
 
 # Bill of Materials  
   * 3d printed components in [3d_printing_stl_files](https://github.com/jurassic73/split89/tree/main/3d_printing_stl_files) directory  
+    **See print notes below! ( [Print keyboard pieces](#print-keyboard-pieces) ) Critical for successful printing!** <br>
     **Print one of each:**  
       split89_electronics_plate_left.stl  
       split89_electronics_plate_right.stl  
@@ -99,36 +100,44 @@ If you end up building this keyboard, please share your build here as a make! [p
 
 ![image](https://i.imgur.com/u4bVIrw.jpg)  
 
-  I printed all of my pieces using SunLu Gray PETG.  PETG is less rigid vs PLA and holds it's shape better over time vs PLA.  Also figured since it's less rigid, it'd be less resonant to key presses.
-  
+  I've built four of these keyboards now.  One using SunLu Gray PETG and three using Eryone Matte PLA.  PETG is less rigid vs PLA and holds it's shape better over time under pressure like a bolted assembly vs PLA however this Matte has performed well as well and I would easily recommend it along side PETG and it prints easier.
+
+  All pieces were printed using .2mm layer height.  All .stl files should be printed as oriented.  No supports with exception of the wrist rests which use a bit of support material but I found it was the best orientation for the cleanest contact surface possible.
+
   You should only need one roll of filament for the exposed color pieces.  That is, if you're covering your wrist pads with vinyl, you should be able to print your wrist bases, bodies, body bases and electronic plate parts out of a single roll of filament and your wrist pads with whatever other color since you're covering them up with vinyl.
-  
-  I tried turning off cooling for some prints which helped avoid warping but found out it was more due to my bed adhesion/first layer adjustment.
+
+**Body Piece/Base Print Notes**
 
     split89_left_body.stl  
-    split89_left_body_base.stl  
-    split89_left_body_base_no_pillar.stl  
-    split89_left_wrist_base.stl  
-    split89_left_wrist_pad.stl  
+    split89_left_body_base.stl or split89_left_body_base_no_pillar.stl  
     split89_right_body.stl  
-    split89_right_body_base.stl  
-    split89_right_body_base_no_pillar.stl  
-    split89_right_wrist_base.stl  
-    split89_right_wrist_pad.stl  
+    split89_right_body_base.stl or split89_right_body_base_no_pillar.stl  
 
-  Other things to note... I changed the perimeter count to five from the default 2 in my slicer for the larger pieces as well.  I wanted heavier/denser pieces so my bases didn't sound so hollow.  Last, you need to make sure your first layer has good adhesion so your parts don't lift off.  I cleaned my bed between every print, well, with isopropyl alcohol when printing in PLA.  PLA seems to leave something behind so cleaning after every print ensured good adhesion.  I did try to use a brim and turn off EFC(Elephant Foot Compensation) but this mucked up the keyswitch holes and the elephant foot created in those keyswitch holes, without EFC, made the hole too tight for the switches and pressed in enough on them to deform them and affect their funciton.  Prusa Slicer's brim is not conencted to the body currently if you use EFC.  They're fixing that down the road.  tl;dr - clean your bed well, good first layer adhesion - if using Prusa Slicer, disable brim and keep EFC enabled.
-
-  The remaining pieces for the electronics plates I printed using the default Prusa slicer settings.
+  **Surface Texture** - The body pieces have the most visible surfaces and I preferred to use a textured print plate as that textured surface hides print lines really well and if you scratch it over time, the texture can kinda hide that wear.  
   
-  A de-burring tool works great to remove the brim in a clean way from the large pieces.
+  **Surface Prep** - Unless you know your pieces will stick well, wash your build plate before printing each of these with Joy or Dawn dish washing soap.  This seems to remove all PLA residue for me and ensures a clean print.  You're gonna be staring at this top surface of the body the most, ensure you get a good print with good adhesion.
   
-  All pieces were printed using .2mm layer height.  All .stl files should be printed as oriented.  The wrist rests use a bit of support material but I found it was the best orientation for the cleanest contact surface possible.
+  **PLA** - printbed at 60C helped ensure minimum warping.  I printed at 215C nozzle temp with the matte PLA.
+  
+  **PETG** - I used the default settings - I had some lifting in the corners.
 
+  **Perimeter** - default 2 or 5 - I changed the perimeter count to five from the default 2 in my slicer for the body pieces as well.  I wanted heavier/denser pieces so my bases didn't sound so hollow.  
+
+  **Brim** - do no use - not needed with good bed adhesion and will cause issues as you need to disable Elephant Foot Compensation(EFC) so the brim attaches to the body correctly(currently the state with Prusa Slicer) but disabling EFC will cause major issues with your keyswitch holes(see next note).
+
+ **Elephant Foot Compensation** - leave enabled/required  The designed printed keyswitch holes are 13.9mmx13.9mm.  A keyswitch is 14mmx14mm.  This .1mm designed difference creates a nice friction fit to secure the switch without deforming it.  Without EFT, any bit of resulting elephant foot deformation interferes with this design and can affect switch operation.  I found this out the hardway during one of my initial prints by disabling EFC. My switches were either too tight when installed and they were deforned and it bound up the stem or the elephant foot was so much in one area of one of the bodies, that I could not insert my switches.  **Keep EFC enabled.**
+  
+  **Support** [easy to remove support settings](https://projects.ttlexceeded.com/3dprinting_techniques_removable_supports.html) - supports for this build are only needed for wrist pad pieces.  The supports can be very tough to remove easily/cleanly from wide surfaces however I use the settings in the link.  The supports,created with these settings, remove relatively easily/cleanly without much effort.
+ 
+ ![image](https://i.imgur.com/VNW9OV7.jpg)
+ 
+ The remaining pieces for the wrist pads/bases and electronics plates I printed using the default Prusa slicer settings for PLA or PETG respectively.
+  
 ### Install keyswitches and stabs
 
-![image](https://i.imgur.com/MWzUhMy.jpg)  
+![image](https://i.imgur.com/UcpQyLt.jpg)  
 
-![image](https://i.imgur.com/cqQreo9.jpg)  
+![image](https://i.imgur.com/9eiMjrX.jpg)  
 
   This keyboard has 13.9mm square holes for the keyswitches.  The keyswitches should press into place firmly.  The stabilizers insert and kinda rotate into their position as they are fully seated.  I took the time to disassemble and lube my keyswitches using Super Lube prior to installation.  Also added lube to my stabs.  This is not required but the few hours you put in to lubing your switches will be noticeable over many hours of use.  There are many videos out there on how to do this.
 
