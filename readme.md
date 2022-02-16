@@ -135,7 +135,7 @@ If you end up building this keyboard, please share your build here as a make! [p
   
 ### Install keyswitches and stabs
 
-![image](https://i.imgur.com/UcpQyLt.jpg)  
+![image](https://i.imgur.com/08gpOL3.jpg)  
 
 ![image](https://i.imgur.com/9eiMjrX.jpg)  
 
