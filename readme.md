@@ -305,20 +305,20 @@ Sounds like a lot and it is but if you build this, you will be stoked at the res
 
 Filament - [ERYONE Matte Black PLA](https://www.amazon.com/ERYONE-Filament-1-75mm-Printer-2-2LBS/dp/B08HX1XF55/)  
 Keyswitches - [Gateron Ink V2 Linear Switches - Black](https://1upkeyboards.com/shop/switches/set-packs/gateron-ink-switches/)  
-Keycaps - [AKKO White on Black ASA Profile PBT Double-shot](https://en.akkogear.com/product/white-on-black-keycap-set-158-key/)
+Keycaps - [AKKO White on Black ASA Profile PBT Double-shot](https://en.akkogear.com/product/white-on-black-keycap-set-158-key/)  
 Car wrap vinyl - [3m Black Shadow](https://metrorestyling.com/products/3m-2080-shadow-black-textured-vinyl-wrap-sb12)  
 TRS Cable - [CableCreation 1.5ft](https://www.amazon.com/gp/product/B01K3WYJBK/)  
-USB Cable / magnetic disconnect - [NetDot Gen7 Magnetic Charging Cable](https://www.amazon.com/gp/product/B01MZ634EJ/)
+USB Cable / magnetic disconnect - [NetDot Gen7 Magnetic Charging Cable](https://www.amazon.com/gp/product/B01MZ634EJ/)  
 
 ## Carbon scheme (my favorite scheme)
 ![image](https://i.imgur.com/pApi5FN.jpg)
 
 Filament - [SUNLU Grey PETG](https://www.amazon.com/gp/product/B07Y5TCH9V/)  
 Keyswitches - [Alpaca Linear](https://www.primekb.com/products/alpaca-linears?variant=37633188855971)  
-Keycaps - [AKKO Carbon Retro](https://www.amazon.com/EPOMAKER-Double-Shot-Mechanical-Keyboard-Replacement/dp/B08XJSFTCB)
+Keycaps - [AKKO Carbon Retro](https://www.amazon.com/EPOMAKER-Double-Shot-Mechanical-Keyboard-Replacement/dp/B08XJSFTCB)  
 Car wrap vinyl - [3m Black Carbon Fiber](https://www.ebay.com/itm/172810319316)  
 TRS Cable - [CableCreation 1.5ft](https://www.amazon.com/gp/product/B01K3WYJBK/)  
-USB Cable / magnetic disconnect - [NetDot Gen7 Magnetic Charging Cable](https://www.amazon.com/gp/product/B01MZ634EJ/)
+USB Cable / magnetic disconnect - [NetDot Gen7 Magnetic Charging Cable](https://www.amazon.com/gp/product/B01MZ634EJ/)  
 
 ### My Tools
 3D Printer - [Prusa MK3s](https://shop.prusa3d.com/en/3d-printers/180-original-prusa-i3-mk3s-kit.html)  
