@@ -10,6 +10,8 @@ QMK Configurator support means you can create a custom firmware for this keyboar
 
 Given you have all tools required, you can build this keyboard for roughly $120 in materials minimum that I can find.  My builds were average $150-$200 or so in materials.
 
+If you're stuck with what to go with regarding colors and materials(there are a ton of options out there for your components), check out my monochrome material list towards the bottom of this page.  Hard to go wrong with a black/white keyboard scheme.
+
 If you end up building this keyboard, please share your build here as a make! [prusaprinters.org split89](https://www.prusaprinters.org/prints/75599-split89)  I was happy with the result of this build for my own use and put this document together to share this design and hopefully inspire/help others looking to build a split TKL.  Seeing your build would be awesome!
 
 **External Links**  
@@ -32,7 +34,7 @@ If you end up building this keyboard, please share your build here as a make! [p
 10) [Mount the wrist bases and rests](#mount-the-wrist-bases-and-rests) 
 11) [Install rubber feet](#install-rubber-feet)  
 
-**My Personal Build**  
+**My Personal Builds**  
 [Keyboard Pics](#my-personal-build)  
 [Main Hardware](#my-personal-build-main-hardware)  
 [Tools](#my-tools)  
