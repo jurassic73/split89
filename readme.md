@@ -317,7 +317,7 @@ USB Cable / magnetic disconnect - [NetDot Gen7 Magnetic Charging Cable](https://
 ![image](https://i.imgur.com/pApi5FN.jpg)
 
 Filament - [SUNLU Grey PETG](https://www.amazon.com/gp/product/B07Y5TCH9V/)  
-Keyswitches - [Alpaca Linear](https://www.primekb.com/products/alpaca-linears?variant=37633188855971) 
+Keyswitches - [Alpaca Linear](https://www.primekb.com/products/alpaca-linears?variant=37633188855971)  
 Stabilizers - [Durock](https://www.amazon.com/gp/product/B096JVL2MQ/)  
 Keycaps - [AKKO Carbon Retro](https://www.amazon.com/EPOMAKER-Double-Shot-Mechanical-Keyboard-Replacement/dp/B08XJSFTCB)  
 Car wrap vinyl - [3m Black Carbon Fiber](https://www.ebay.com/itm/172810319316)  
