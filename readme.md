@@ -10,7 +10,7 @@ QMK Configurator support means you can create a custom firmware for this keyboar
 
 Given you have all tools required, you can build this keyboard for roughly $120 in materials minimum that I can find.  My builds were average $150-$200 or so in materials.
 
-What if you don't have a 3d printer?  You may have options... there are print services out there, the 3dprinting subreddit may be of help or your local maker space or check with friends that print(if you know someone).  Rates can vary quite a bit so shop around.  This is no quick print, it takes roughly 77 hours to print all parts.  There are specifics below you'd want said printing help to view before slicing to ensure your parts are printed as needed.  Of course this could be the project that justifies the purchase of a printer of your own!
+What if you don't have a 3d printer?  You may have options... there are print services out there, the 3dprinting subreddit may be of help or your local maker space or check with friends that print(if you know someone).  Rates can vary quite a bit so shop around.  This is no quick print, it takes roughly 77 hours to print all parts.  There are specifics below you'd want said printing help to view before slicing to ensure your parts are printed as needed.  Of course this could be the project that justifies the purchase of a printer of your own! :)
 
 If you're stuck with what to go with regarding colors and materials(there are a ton of options out there for your component!s), check out my monochrome material list towards the bottom of this page.  Hard to go wrong with a black/white keyboard scheme.
 
