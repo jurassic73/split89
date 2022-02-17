@@ -24,7 +24,7 @@ If you end up building this keyboard, please share your build here as a make! [p
 2)  [Install keyswitches and stabs](#install-keyswitches-and-stabs)  
 3)  [Prepping the diodes](#prepping-the-diodes)  
 4)  [Installing the diode rows](#installing-the-diode-rows)  
-5)  [Installing the columns](#installing-the-columns)  
+5)  [Installing the column wires](#installing-the-column-wires)  
 6)  [Wiring the controller, reset button and TRRS jack](#wiring-the-controller-reset-button-and-TRRS-jack)  
 7)  [Programming the controllers](#programming-the-controllers)  
 8)  [Installing the base plates](#installing-the-base-plates)  
@@ -160,7 +160,7 @@ If you end up building this keyboard, please share your build here as a make! [p
 ![image](https://i.imgur.com/qr8qbID.jpg)  
 
 
-### Installing the columns
+### Installing the column wires
 
   Per the diagram, using insulated wire, you will solder the 5-6 pins per column together.  To do this, I would cut 8" pieces at a time.  Easiest way is to just pull all six colors at once and cut them together.  Remove 1/2" of insulation from one end and make a loop similar to the diodes.  Put this on the pin of the switch at one end of the column.  Next, you'll need to figure out where you need to expose the wire.  I'd put the wire on the first pin and then bend the wire where the next pin is located.  I used a set of wire strippers(which you can set how far they close) to cut the jacket(not the wire) and then, holding the looped end, pull the insulation a bit to expose 1/4" of wire.  I'd repeat threading the wire in place to find where to cut and eventually end up with a piece of wire with gaps where I needed to solder.  Some folks use an x-acto knife to open the wire insulation where needed.  Others use a soldering iron to just melt the jacket away.  At any rate, you'll build these column wires and solder them into place per the diagram.
 
