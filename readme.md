@@ -319,7 +319,7 @@ Car wrap vinyl - [3m Black Shadow](https://metrorestyling.com/products/3m-2080-s
 TRS Cable - [CableCreation 1.5ft](https://www.amazon.com/gp/product/B01K3WYJBK/)  
 USB Cable / magnetic disconnect - [NetDot Gen7 Magnetic Charging Cable](https://www.amazon.com/gp/product/B01MZ634EJ/)  
 
-## Carbon scheme (my favorite scheme)
+## Carbon scheme
 ![image](https://i.imgur.com/pApi5FN.jpg)
 
 Filament - [SUNLU Grey PETG](https://www.amazon.com/gp/product/B07Y5TCH9V/)  
