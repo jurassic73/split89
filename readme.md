@@ -10,6 +10,10 @@ QMK Configurator support means you can create a custom firmware for this keyboar
 
 Given you have all tools required, you can build this keyboard for roughly $120 in materials minimum that I can find.  My builds were average $150-$200 or so in materials.
 
+What if you don't have a 3d printer?  You may have options... there are print services out there, the 3dprinting subreddit may be of help or your local maker space or check with friends that print(if you know someone).  Rates can vary quite a bit so shop around.  This is no quick print, it takes roughly 77 hours to print all parts.  There are specifics below you'd want said printing help to view before slicing to ensure your parts are printed as needed.  Of course this could be the project that justifies the purchase of a printer of your own! :)
+
+If you're stuck with what to go with regarding colors and materials(there are a ton of options out there for your component!s), check out my monochrome material list towards the bottom of this page.  Hard to go wrong with a black/white keyboard scheme.
+
 If you end up building this keyboard, please share your build here as a make! [prusaprinters.org split89](https://www.prusaprinters.org/prints/75599-split89)  I was happy with the result of this build for my own use and put this document together to share this design and hopefully inspire/help others looking to build a split TKL.  Seeing your build would be awesome!
 
 **External Links**  
@@ -24,7 +28,7 @@ If you end up building this keyboard, please share your build here as a make! [p
 2)  [Install keyswitches and stabs](#install-keyswitches-and-stabs)  
 3)  [Prepping the diodes](#prepping-the-diodes)  
 4)  [Installing the diode rows](#installing-the-diode-rows)  
-5)  [Installing the columns](#installing-the-columns)  
+5)  [Installing the column wires](#installing-the-column-wires)  
 6)  [Wiring the controller, reset button and TRRS jack](#wiring-the-controller-reset-button-and-TRRS-jack)  
 7)  [Programming the controllers](#programming-the-controllers)  
 8)  [Installing the base plates](#installing-the-base-plates)  
@@ -32,7 +36,7 @@ If you end up building this keyboard, please share your build here as a make! [p
 10) [Mount the wrist bases and rests](#mount-the-wrist-bases-and-rests) 
 11) [Install rubber feet](#install-rubber-feet)  
 
-**My Personal Build**  
+**My Personal Builds**  
 [Keyboard Pics](#my-personal-build)  
 [Main Hardware](#my-personal-build-main-hardware)  
 [Tools](#my-tools)  
@@ -70,7 +74,7 @@ If you end up building this keyboard, please share your build here as a make! [p
   * (2) Tactile Micro vertical mount switch (6mmx6mmx8mm total height / 4.5mm button height) - [Aliexpress](https://www.aliexpress.com/item/4000543708838.html?spm=a2g0s.9042311.0.0.27424c4dCLLkyk)
   * (1) USB micro cable - only one side needs to be connected to your computer so only one USB cable is required.  I like the magnetic disconnect USB cable I listed towards the bottom of this document.  Make it easy to disconnect the USB cable when needed.  The cable needs to be connected to the keyboard with the LED on the cord plug facing upwards for proper connectivity.
   * (89) keyswitches - [NovelKeys](https://novelkeys.xyz/collections/switches/products/gateron-switches?variant=37302529851559) - example switch to use - I'm a fan of linears.  If you're not sure which keyswitch type you'd like, there are [keyswitch testers](https://www.amazon.com/s?k=key+switch+tester) out there to help you make your decision.
-  * (6) 2U plate mount key switch stabilizers [Aliexpress](https://www.aliexpress.com/item/1005001543613992.html) - buy a few smaller sets or the one for the 104 keyswitch board to get the (6) required 2U stabs.
+  * (6) 2U plate mount key switch stabilizers [Amazon](https://www.amazon.com/gp/product/B096JVL2MQ/) - [Aliexpress](https://www.aliexpress.com/item/1005001543613992.html) - buy a few smaller sets or the one for the 104 keyswitch board to get the (6) required 2U stabs.
   * (87) key caps - [Key cap List](http://www.keyboard-layout-editor.com/##@_name=split89&author=jurassic73&notes=github%20documentation%20pending%3B&@=Esc&_x:1%3B&=F1&=F2&=F3&=F4&=F5&_x:3.25%3B&=F6&=F7&=F8&_x:0.5%3B&=F9&=F10&=F11&=F12&_x:0.25%3B&=PrtSc&=Scroll%20Lock&=Pause%0ABreak%3B&@_y:0.5%3B&=~%0A%60&=!%0A1&=%2F@%0A2&=%23%0A3&=$%0A4&=%25%0A5&=%5E%0A6&_x:2.75%3B&=%2F&%0A7&=*%0A8&=(%0A9&=)%0A0&=%2F_%0A-&=+%0A%2F=&_w:2%3B&=Backspace&_x:0.25%3B&=Insert&=Home&=PgUp%3B&@_w:1.5%3B&=Tab&=Q&=W&=E&=R&=T&_x:2.75%3B&=Y&=U&=I&=O&=P&=%7B%0A%5B&=%7D%0A%5D&_w:1.5%3B&=%7C%0A%5C&_x:0.25%3B&=Delete&=End&=PgDn%3B&@_w:1.75%3B&=Caps%20Lock&=A&=S&=D&=F&=G&_x:2.75%3B&=H&=J&=K&=L&=%2F:%0A%2F%3B&=%22%0A'&_w:2.25%3B&=Enter%3B&@_w:2.25%3B&=Shift&=Z&=X&=C&=V&=B&_x:2.75%3B&=N&=M&=%3C%0A,&=%3E%0A.&=%3F%0A%2F%2F&_w:2.75%3B&=Shift&_x:1.25%3B&=%E2%86%91%3B&@_w:1.25%3B&=Ctrl&_w:1.25%3B&=Fn&_w:1.25%3B&=Win&_w:1.25%3B&=Alt&_a:7&w:2.25%3B&=&_x:2.75&w:2.75%3B&=&_a:4&w:1.25%3B&=Alt&_w:1.25%3B&=Win&_w:1.25%3B&=Menu&_w:1.25%3B&=Ctrl&_x:0.25%3B&=%E2%86%90&=%E2%86%93&=%E2%86%92) - most standard keycap sets will work fine but ensure they have eight 1.25u keycaps.  Some only have seven.  I'm a big fan of the [AKKO keycap sets](https://en.akkogear.com/store/keycap/) in ASA profile which is like a cherry MX but slightly sculpted(Much less than SA profile) in both directions vs cylindrical.  They have more color sets on their site vs Amazon.  Amazon has a good return policy if you want to order them and just see them in person to see if you like them.
   * (2) space bar keys - [2.25u](https://www.wasdkeyboards.com/row-1-size-1x2-25-cherry-mx-keycap.html) / [2.75u](https://www.wasdkeyboards.com/row-1-size-1x2-75-cherry-mx-keycap.html) - As noted above, beyond the standard keycaps, you'll need to either source 2.25u/2.75u space bars(which can be tough) or just use shift keys for your space bars (2.25u and 2.75u).  Most keycap sets don't come with 'extra' space bar caps so I like to use these blank shift keys from WASD Keyboards for space bars since the angle of a cherry MX space bar, installed in reverse orientation is really agreeable for your thumb to land on.  They are only available in ABS so they will take a little shine over time but they're a comfortable compliment to my AKKO ASA sets and come in enough colors to get something close or at least neutral in color vs your primary keycap set.  They're also the most reasonable cost I've found out there at $2.50 per individual cap.  WASD can custom print items on your caps but I found that print wears off in time so I stick with blanks from them.
   * Wire - 6 color pack on [Amazon](https://www.amazon.com/gp/product/B07V1D82HM/) - 24AWG pre-tinned wired - color helps you keep track of what's where.  Solid core and pre-tinned as well so soldering is easier. 
@@ -135,7 +139,7 @@ If you end up building this keyboard, please share your build here as a make! [p
   
 ### Install keyswitches and stabs
 
-![image](https://i.imgur.com/UcpQyLt.jpg)  
+![image](https://i.imgur.com/08gpOL3.jpg)  
 
 ![image](https://i.imgur.com/9eiMjrX.jpg)  
 
@@ -160,7 +164,7 @@ If you end up building this keyboard, please share your build here as a make! [p
 ![image](https://i.imgur.com/qr8qbID.jpg)  
 
 
-### Installing the columns
+### Installing the column wires
 
   Per the diagram, using insulated wire, you will solder the 5-6 pins per column together.  To do this, I would cut 8" pieces at a time.  Easiest way is to just pull all six colors at once and cut them together.  Remove 1/2" of insulation from one end and make a loop similar to the diodes.  Put this on the pin of the switch at one end of the column.  Next, you'll need to figure out where you need to expose the wire.  I'd put the wire on the first pin and then bend the wire where the next pin is located.  I used a set of wire strippers(which you can set how far they close) to cut the jacket(not the wire) and then, holding the looped end, pull the insulation a bit to expose 1/4" of wire.  I'd repeat threading the wire in place to find where to cut and eventually end up with a piece of wire with gaps where I needed to solder.  Some folks use an x-acto knife to open the wire insulation where needed.  Others use a soldering iron to just melt the jacket away.  At any rate, you'll build these column wires and solder them into place per the diagram.
 
@@ -298,18 +302,30 @@ Sounds like a lot and it is but if you build this, you will be stoked at the res
 
 ![image](https://i.imgur.com/KheWpgT.jpg)
 
+### My personal build main hardware
+
+## Latest build - monochrome scheme (my favorite scheme)
+![image](https://i.imgur.com/79znerx.jpg)  
+
+Filament - [ERYONE Matte Black PLA](https://www.amazon.com/ERYONE-Filament-1-75mm-Printer-2-2LBS/dp/B08HX1XF55/)  
+Keyswitches - [Gateron Ink V2 Linear Switches - Black](https://1upkeyboards.com/shop/switches/set-packs/gateron-ink-switches/)  
+Stabilizers - [Durock](https://www.amazon.com/gp/product/B096JVL2MQ/)  
+Keycaps - [AKKO White on Black ASA Profile PBT Double-shot](https://en.akkogear.com/product/white-on-black-keycap-set-158-key/)  
+Car wrap vinyl - [3m Black Shadow](https://metrorestyling.com/products/3m-2080-shadow-black-textured-vinyl-wrap-sb12)  
+TRS Cable - [CableCreation 1.5ft](https://www.amazon.com/gp/product/B01K3WYJBK/)  
+USB Cable / magnetic disconnect - [NetDot Gen7 Magnetic Charging Cable](https://www.amazon.com/gp/product/B01MZ634EJ/)  
+
+## Carbon scheme (my favorite scheme)
 ![image](https://i.imgur.com/pApi5FN.jpg)
 
-### My personal build main hardware
 Filament - [SUNLU Grey PETG](https://www.amazon.com/gp/product/B07Y5TCH9V/)  
 Keyswitches - [Alpaca Linear](https://www.primekb.com/products/alpaca-linears?variant=37633188855971)  
-Keycaps
-- [GMK White on Black](https://drop.com/buy/gmk-white-on-black-custom-keycap-set)  
-- [AKKO Carbon Retro](https://www.amazon.com/EPOMAKER-Double-Shot-Mechanical-Keyboard-Replacement/dp/B08XJSFTCB)
-
+Stabilizers - [Durock](https://www.amazon.com/gp/product/B096JVL2MQ/)  
+Keycaps - [AKKO Carbon Retro](https://www.amazon.com/EPOMAKER-Double-Shot-Mechanical-Keyboard-Replacement/dp/B08XJSFTCB)  
 Car wrap vinyl - [3m Black Carbon Fiber](https://www.ebay.com/itm/172810319316)  
 TRS Cable - [CableCreation 1.5ft](https://www.amazon.com/gp/product/B01K3WYJBK/)  
-USB Cable / magnetic disconnect - [NetDot Gen7 Magnetic Charging Cable](https://www.amazon.com/gp/product/B01MZ634EJ/)
+USB Cable / magnetic disconnect - [NetDot Gen7 Magnetic Charging Cable](https://www.amazon.com/gp/product/B01MZ634EJ/)  
+
 ### My Tools
 3D Printer - [Prusa MK3s](https://shop.prusa3d.com/en/3d-printers/180-original-prusa-i3-mk3s-kit.html)  
 Soldering Iron - [Hakko FX888D](https://www.amazon.com/Hakko-FX888D-23BY-Digital-Soldering-Station/dp/B00ANZRT4M/)  
