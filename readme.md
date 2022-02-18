@@ -112,7 +112,7 @@ If you end up building this keyboard, please share your build here as a make! [p
 
 **Keyswitch Hole Test Print**
 
-I've added a split89_keyhole_test_print.stl model with a 13.9mm square hole.  Configure your slicer per the below notes(verify EFC settings) and print this test piece to ensure your keyswitch fits correctly in this hole before printing the larger pieces.  Test fit that your keyswitch installs but isn't defomred or overly tight.  When you look at this printed model, the inside dimension should be 13.9mm square, and the interior walls should be flat, bottom to top, with no bulge/lip(which would indicate an Elephant foot is present).  If the interior walls are flat, bottom to top, you should be ready, with these settings, to print your larger pieces.
+I've added a split89_keyhole_test_print.stl model with a 13.9mm square hole.  Configure your slicer per the below notes, including EFC settings, and print this test piece to ensure your keyswitch fits correctly in this hole before printing the larger pieces.  Test fit that your keyswitch installs but isn't defomred or overly tight.  When you look at this printed model, the inside dimension should be 13.9mm square, and the interior walls should be flat, bottom to top, with no bulge/lip(which would indicate an Elephant foot is present).  If the interior walls are flat, bottom to top, you should be ready, with these settings, to print your larger pieces.
 
 **Body Piece/Base Print Notes**
 
