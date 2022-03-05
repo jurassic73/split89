@@ -4,7 +4,7 @@
 
 This keyboard build was inspired by the Microsoft Ergonomic 4000 keyboard I used for roughly 12 years or so.  I broke my left wrist twice over the years so an ergo keyboard is a must for me to type comfortably all day long else my left wrist starts to burn after a few hours of typing on a regular keyboard.  This is a real bummer since there are so many amazing keyboards out there.  I could not find a split TKL like this layout so I designed one.  I started desinging this on Dec 4th, 2020 and built my first version in June 2021. This has a 6° tent and a 3° incline.  I designed this to sit as low as possible with these angles on a table.  One key switch is actually in a recess in the baseplate with a few mm of material below it.
 
-YouTube - Overview Build Videos
+YouTube - Overview Build Videos<br>
 [<img alt="Part 1" src="https://i.imgur.com/V128KfI.png" />](https://youtu.be/i7usy5cnMP0) [<img alt="Part 2" src="https://i.imgur.com/MTHmepG.png" />](https://youtu.be/2QsMvdtoToE)
 
 The left half has an extra key on the bottom row(vs standard TKL) so you can shift to other layers for more functionality.  The [default keymap below](#programming-the-controllers) illustrates this.  Verify the keycaps you shop for has eight 1.25u keys for this row. You'll also need to source 2.25 and 2.75 space bars. Reversed shift keys often work well in this position and provide your thumbs with a more agreeable landing surface angle.
