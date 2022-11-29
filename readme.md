@@ -2,7 +2,7 @@
 
 ![image](https://i.imgur.com/79znerx.jpg)  
 
-This keyboard build was inspired by the Microsoft Ergonomic 4000 keyboard I used for roughly 12 years or so.  I broke my left wrist twice over the years so an ergo keyboard is a must for me to type comfortably all day long else my left wrist starts to burn after a few hours of typing on a regular keyboard.  This is a real bummer since there are so many amazing keyboards out there.  I could not find a split TKL like this layout so I designed one.  I started desinging this on Dec 4th, 2020 and built my first version in June 2021. This has a 6° tent and a 3° incline.  I designed this to sit as low as possible with these angles on a table.  One key switch is actually in a recess in the baseplate with a few mm of material below it.
+This keyboard build was inspired by the Microsoft Ergonomic 4000 keyboard I used for roughly 12 years or so.  I broke my left wrist twice over the years so an ergo keyboard is a must for me to type comfortably all day long else my left wrist starts to burn after a few hours of typing on a regular keyboard.  This is a real bummer since there are so many amazing keyboards out there.  I could not find a split TKL like this layout so I designed one.  I started designing this on Dec 4th, 2020 and built my first version in June 2021. This has a 6° tent and a 3° incline.  I designed this to sit as low as possible with these angles on a table.  One key switch is actually in a recess in the baseplate with a few mm of material below it.
 
 YouTube - Overview Build Videos<br>
 [<img alt="Part 1" src="https://i.imgur.com/V128KfI.png" />](https://youtu.be/i7usy5cnMP0) [<img alt="Part 2" src="https://i.imgur.com/MTHmepG.png" />](https://youtu.be/8Tm1rYtXKhw) [<img alt="Part 3" src="https://i.imgur.com/zpX3yF4.png" />](https://youtu.be/rSSixBk8nNw)
@@ -15,7 +15,7 @@ Given you have all tools required, you can build this keyboard for roughly $120 
 
 What if you don't have a 3d printer?  You may have options... there are print services out there, the 3dprinting subreddit may be of help or your local maker space or check with friends that print(if you know someone).  Rates can vary quite a bit so shop around.  This is no quick print, it takes roughly 77 hours to print all parts.  There are specifics below you'd want said printing help to view before slicing to ensure your parts are printed as needed.  Of course this could be the project that justifies the purchase of a printer of your own! :)
 
-If you're stuck with what to go with regarding colors and materials(there are a ton of options out there for your component!s), check out my monochrome material list towards the bottom of this page.  Hard to go wrong with a black/white keyboard scheme.
+If you're stuck with what to go with regarding colors and materials(there are a ton of options out there for your components), check out my monochrome material list towards the bottom of this page.  Hard to go wrong with a black/white keyboard scheme.
 
 If you end up building this keyboard, please share your build here as a make! [prusaprinters.org split89](https://www.prusaprinters.org/prints/75599-split89)  I was happy with the result of this build for my own use and put this document together to share this design and hopefully inspire/help others looking to build a split TKL.  Seeing your build would be awesome!
 
@@ -25,7 +25,7 @@ If you end up building this keyboard, please share your build here as a make! [p
 
 **Table of Contents**  
 [Bill of Materials](#bill-of-materials)  
-[Tool sugggestions](#tool-suggestions)  
+[Tool suggestions](#tool-suggestions)  
 [Assembly](#assembly)  
 1)  [Print keyboard pieces](#print-keyboard-pieces)  
 2)  [Install keyswitches and stabs](#install-keyswitches-and-stabs)  
@@ -46,7 +46,7 @@ If you end up building this keyboard, please share your build here as a make! [p
 [GMK Info](#gmk-info)  
 
 # Bill of Materials  
-  * 3d printed components in [3d_printing_stl_files](https://github.com/jurassic73/split89/tree/main/3d_printing_stl_files) directory  
+  * 3d printed components in [3d_printing_stl_files](https://github.com/jurassic73/split89/tree/main/3d_printing_stl_files) directory
     **See print notes below! ( [Print keyboard pieces](#print-keyboard-pieces) ) Critical for successful printing!** <br>
     **Print one of each:**  
       split89_electronics_plate_left.stl  
@@ -76,7 +76,7 @@ If you end up building this keyboard, please share your build here as a make! [p
   * (1) 2k-10k resistor - [Aliexpress](https://www.aliexpress.com/item/32952657927.html)
   * (2) Tactile Micro vertical mount switch (6mmx6mmx8mm total height / 4.5mm button height) - [Aliexpress](https://www.aliexpress.com/item/4000543708838.html?spm=a2g0s.9042311.0.0.27424c4dCLLkyk)
   * (1) USB micro cable - only one side needs to be connected to your computer so only one USB cable is required.  I like the magnetic disconnect USB cable I listed towards the bottom of this document.  Make it easy to disconnect the USB cable when needed.  The cable needs to be connected to the keyboard with the LED on the cord plug facing upwards for proper connectivity.
-  * (89) keyswitches - [NovelKeys](https://novelkeys.xyz/collections/switches/products/gateron-switches?variant=37302529851559) - example switch to use - I'm a fan of linears.  If you're not sure which keyswitch type you'd like, there are [keyswitch testers](https://www.amazon.com/s?k=key+switch+tester) out there to help you make your decision.
+  * (89) key switches - [NovelKeys](https://novelkeys.xyz/collections/switches/products/gateron-switches?variant=37302529851559) - example switch to use - I'm a fan of linear switches.  If you're not sure which key switch type you'd like, there are [key switch testers](https://www.amazon.com/s?k=key+switch+tester) out there to help you make your decision.
   * (6) 2U plate mount key switch stabilizers [Amazon](https://www.amazon.com/gp/product/B096JVL2MQ/) - [Aliexpress](https://www.aliexpress.com/item/1005001543613992.html) - buy a few smaller sets or the one for the 104 keyswitch board to get the (6) required 2U stabs.
   * (87) key caps - [Key cap List](http://www.keyboard-layout-editor.com/##@_name=split89&author=jurassic73&notes=github%20documentation%20pending%3B&@=Esc&_x:1%3B&=F1&=F2&=F3&=F4&=F5&_x:3.25%3B&=F6&=F7&=F8&_x:0.5%3B&=F9&=F10&=F11&=F12&_x:0.25%3B&=PrtSc&=Scroll%20Lock&=Pause%0ABreak%3B&@_y:0.5%3B&=~%0A%60&=!%0A1&=%2F@%0A2&=%23%0A3&=$%0A4&=%25%0A5&=%5E%0A6&_x:2.75%3B&=%2F&%0A7&=*%0A8&=(%0A9&=)%0A0&=%2F_%0A-&=+%0A%2F=&_w:2%3B&=Backspace&_x:0.25%3B&=Insert&=Home&=PgUp%3B&@_w:1.5%3B&=Tab&=Q&=W&=E&=R&=T&_x:2.75%3B&=Y&=U&=I&=O&=P&=%7B%0A%5B&=%7D%0A%5D&_w:1.5%3B&=%7C%0A%5C&_x:0.25%3B&=Delete&=End&=PgDn%3B&@_w:1.75%3B&=Caps%20Lock&=A&=S&=D&=F&=G&_x:2.75%3B&=H&=J&=K&=L&=%2F:%0A%2F%3B&=%22%0A'&_w:2.25%3B&=Enter%3B&@_w:2.25%3B&=Shift&=Z&=X&=C&=V&=B&_x:2.75%3B&=N&=M&=%3C%0A,&=%3E%0A.&=%3F%0A%2F%2F&_w:2.75%3B&=Shift&_x:1.25%3B&=%E2%86%91%3B&@_w:1.25%3B&=Ctrl&_w:1.25%3B&=Fn&_w:1.25%3B&=Win&_w:1.25%3B&=Alt&_a:7&w:2.25%3B&=&_x:2.75&w:2.75%3B&=&_a:4&w:1.25%3B&=Alt&_w:1.25%3B&=Win&_w:1.25%3B&=Menu&_w:1.25%3B&=Ctrl&_x:0.25%3B&=%E2%86%90&=%E2%86%93&=%E2%86%92) - most standard keycap sets will work fine but ensure they have eight 1.25u keycaps.  Some only have seven.  I'm a big fan of the [AKKO keycap sets](https://en.akkogear.com/store/keycap/) in ASA profile which is like a cherry MX but slightly sculpted(Much less than SA profile) in both directions vs cylindrical.  They have more color sets on their site vs Amazon.  Amazon has a good return policy if you want to order them and just see them in person to see if you like them.
   * (2) space bar keys - [2.25u](https://www.wasdkeyboards.com/row-1-size-1x2-25-cherry-mx-keycap.html) / [2.75u](https://www.wasdkeyboards.com/row-1-size-1x2-75-cherry-mx-keycap.html) - As noted above, beyond the standard keycaps, you'll need to either source 2.25u/2.75u space bars(which can be tough) or just use shift keys for your space bars (2.25u and 2.75u).  Most keycap sets don't come with 'extra' space bar caps so I like to use these blank shift keys from WASD Keyboards for space bars since the angle of a cherry MX space bar, installed in reverse orientation is really agreeable for your thumb to land on.  They are only available in ABS so they will take a little shine over time but they're a comfortable compliment to my AKKO ASA sets and come in enough colors to get something close or at least neutral in color vs your primary keycap set.  They're also the most reasonable cost I've found out there at $2.50 per individual cap.  WASD can custom print items on your caps but I found that print wears off in time so I stick with blanks from them.
@@ -115,7 +115,7 @@ If you end up building this keyboard, please share your build here as a make! [p
 
 **Keyswitch Hole Test Print**
 
-I've added a split89_keyhole_test_print.stl model with a 13.9mm square hole.  Configure your slicer per the below notes, including EFC settings, and print this test piece to ensure your keyswitch fits correctly in this hole before printing the larger pieces.  Test fit that your keyswitch installs but isn't deformed or overly tight.  When you look at this printed model, the inside dimension should be 13.9mm square, and the interior walls should be flat, bottom to top, with no bulge/lip(which would indicate an Elephant foot is present).  If the interior walls are flat, bottom to top, you should be ready, with these settings, to print your larger pieces.
+I've added a split89_keyhole_test_print.stl model with a 13.9mm square hole.  Configure your slicer per the below notes, including EFC settings, and print this test piece to ensure your key switch fits correctly in this hole before printing the larger pieces.  Test fit that your key switch installs but isn't deformed or overly tight.  When you look at this printed model, the inside dimension should be 13.9mm square, and the interior walls should be flat, bottom to top, with no bulge/lip(which would indicate an Elephant foot is present).  If the interior walls are flat, bottom to top, you should be ready, with these settings, to print your larger pieces.
 
 **Body Piece/Base Print Notes**
 
@@ -128,15 +128,15 @@ I've added a split89_keyhole_test_print.stl model with a 13.9mm square hole.  Co
   
   **Surface Prep** - Unless you know your pieces will stick well, wash your build plate before printing each of these with Joy or Dawn dish washing soap.  This seems to remove all PLA residue for me and ensures a clean print.  You're gonna be staring at this top surface of the body the most, ensure you get a good print with good adhesion.
   
-  **PLA** - printbed at 60C helped ensure minimum warping.  I printed at 215C nozzle temp with the matte PLA.
+  **PLA** - print bed at 60C helped ensure minimum warping.  I printed at 215C nozzle temp with the matte PLA.
   
   **PETG** - I used the default settings - I had some lifting in the corners.
 
   **Perimeter** - default 2 or 5 - I changed the perimeter count to five from the default 2 in my slicer for the body pieces as well.  I wanted heavier/denser pieces so my bases didn't sound so hollow.  
 
-  **Brim** - do no use - not needed with good bed adhesion and will cause issues as you need to disable Elephant Foot Compensation(EFC) so the brim attaches to the body correctly(currently the state with Prusa Slicer) but disabling EFC will cause major issues with your keyswitch holes(see next note).
+  **Brim** - do no use - not needed with good bed adhesion and will cause issues as you need to disable Elephant Foot Compensation(EFC) so the brim attaches to the body correctly(currently the state with Prusa Slicer) but disabling EFC will cause major issues with your key switch holes(see next note).
 
- **Elephant Foot Compensation** - leave enabled/required  The designed printed keyswitch holes are 13.9mmx13.9mm.  A keyswitch is 14mmx14mm.  This .1mm designed difference creates a nice friction fit to secure the switch without deforming it.  Without EFT, any bit of resulting elephant foot deformation interferes with this design and can affect switch operation.  I found this out the hardway during one of my initial prints by disabling EFC. My switches were either too tight when installed and they were deforned and it bound up the stem or the elephant foot was so much in one area of one of the bodies, that I could not insert my switches.  **Keep EFC enabled.**
+ **Elephant Foot Compensation** - leave enabled/required  The designed printed key switch holes are 13.9mmx13.9mm.  A key switch is 14mmx14mm.  This .1mm designed difference creates a nice friction fit to secure the switch without deforming it.  Without EFT, any bit of resulting elephant foot deformation interferes with this design and can affect switch operation.  I found this out the hard way during one of my initial prints by disabling EFC. My switches were either too tight when installed and they were deformed and it bound up the stem or the elephant foot was so much in one area of one of the bodies, that I could not insert my switches.  **Keep EFC enabled.**
   
   **Support** [easy to remove support settings](https://projects.ttlexceeded.com/3dprinting_techniques_removable_supports.html) - supports for this build are only needed for wrist pad pieces.  The supports can be very tough to remove easily/cleanly from wide surfaces however I use the settings in the link.  The supports,created with these settings, remove relatively easily/cleanly without much effort.
  
@@ -144,13 +144,13 @@ I've added a split89_keyhole_test_print.stl model with a 13.9mm square hole.  Co
  
  The remaining pieces for the wrist pads/bases and electronics plates I printed using the default Prusa slicer settings for PLA or PETG respectively.
   
-### Install keyswitches and stabs
+### Install key switches and stabs
 
 ![image](https://i.imgur.com/08gpOL3.jpg)  
 
 ![image](https://i.imgur.com/9eiMjrX.jpg)  
 
-  This keyboard has 13.9mm square holes for the keyswitches.  The keyswitches should press into place firmly.  The stabilizers insert and kinda rotate into their position as they are fully seated.  I took the time to disassemble and lube my keyswitches using Super Lube prior to installation.  Also added lube to my stabs.  This is not required but the few hours you put in to lubing your switches will be noticeable over many hours of use.  There are many videos out there on how to do this.
+  This keyboard has 13.9mm square holes for the key switches.  The key switches should press into place firmly.  The stabilizers insert and kinda rotate into their position as they are fully seated.  I took the time to disassemble and lube my key switches using Super Lube prior to installation.  Also added lube to my stabs.  This is not required but the few hours you put in to lubing your switches will be noticeable over many hours of use.  There are many videos out there on how to do this.
 
 ### Prepping the diodes
 
@@ -164,7 +164,7 @@ I've added a split89_keyhole_test_print.stl model with a 13.9mm square hole.  Co
 
 ![image](https://i.imgur.com/gJlS6R1.png)
 
-  Each keyswitch requires a diode.  I installed these one row at a time.  I would put all diodes in place for the row I was soldering.  The diode at the far right column had it's 90 leg snipped short.  Once all are laid in place, solder from left to right.  I used the cut off legs to cover the distance between the keys in rows that were further apart for appearance.  You could just jumper these spans with wire as well.
+  Each key switch requires a diode.  I installed these one row at a time.  I would put all diodes in place for the row I was soldering.  The diode at the far right column had it's 90 leg snipped short.  Once all are laid in place, solder from left to right.  I used the cut off legs to cover the distance between the keys in rows that were further apart for appearance.  You could just jumper these spans with wire as well.
 
 ![image](https://i.imgur.com/NL9UTmt.jpg)  
 
@@ -315,7 +315,7 @@ Sounds like a lot and it is but if you build this, you will be stoked at the res
 ![image](https://i.imgur.com/79znerx.jpg)  
 
 Filament - [ERYONE Matte Black PLA](https://www.amazon.com/ERYONE-Filament-1-75mm-Printer-2-2LBS/dp/B08HX1XF55/)  
-Keyswitches - [Gateron Ink V2 Linear Switches - Black](https://1upkeyboards.com/shop/switches/set-packs/gateron-ink-switches/)  
+Key switches - [Gateron Ink V2 Linear Switches - Black](https://1upkeyboards.com/shop/switches/set-packs/gateron-ink-switches/)  
 Stabilizers - [Durock](https://www.amazon.com/gp/product/B096JVL2MQ/)  
 Keycaps - [AKKO White on Black ASA Profile PBT Double-shot](https://en.akkogear.com/product/white-on-black-keycap-set-158-key/)  
 Car wrap vinyl - [3m Black Shadow](https://metrorestyling.com/products/3m-2080-shadow-black-textured-vinyl-wrap-sb12)  
@@ -326,7 +326,7 @@ USB Cable / magnetic disconnect - [NetDot Gen7 Magnetic Charging Cable](https://
 ![image](https://i.imgur.com/pApi5FN.jpg)
 
 Filament - [SUNLU Grey PETG](https://www.amazon.com/gp/product/B07Y5TCH9V/)  
-Keyswitches - [Alpaca Linear](https://www.primekb.com/products/alpaca-linears?variant=37633188855971)  
+Key switches - [Alpaca Linear](https://www.primekb.com/products/alpaca-linears?variant=37633188855971)  
 Stabilizers - [Durock](https://www.amazon.com/gp/product/B096JVL2MQ/)  
 Keycaps - [AKKO Carbon Retro](https://www.amazon.com/EPOMAKER-Double-Shot-Mechanical-Keyboard-Replacement/dp/B08XJSFTCB)  
 Car wrap vinyl - [3m Black Carbon Fiber](https://www.ebay.com/itm/172810319316)  
@@ -346,4 +346,4 @@ See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_to
 
 Brand new to QMK? Start with the [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).  
 
-[QMK github](https://github.com/qmk/qmk_firmware)  
+[QMK GitHub](https://github.com/qmk/qmk_firmware)  
