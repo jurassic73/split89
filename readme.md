@@ -205,7 +205,7 @@ I've added a split89_keyhole_test_print.stl model with a 13.9mm square hole.  Co
 
   **Download Firmware**
 
-  **NOTE:** working firmware hex file [here](https://raw.githubusercontent.com/jurassic73/split89/main/split89_default.hex). Right click page and save as.
+  **NOTE:** working firmware hex file [here](https://raw.githubusercontent.com/jurassic73/split89/main/split89_default.hex). Right click link and save as.
 
   [QMK Configurator](https://config.qmk.fm/#/handwired/split89/LAYOUT)  **The QMK Configurator website split89 mapping is currently broken. Use the above hex file to program your keyboard. Something updated my keymap(not myself) on the repo which broke mapping - working to get this fixed.**
   
