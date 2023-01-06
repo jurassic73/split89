@@ -203,11 +203,15 @@ I've added a split89_keyhole_test_print.stl model with a 13.9mm square hole.  Co
 
 ### Programming the controllers
 
-  [QMK Configurator](https://config.qmk.fm/#/handwired/split89/LAYOUT)  **The QMK Configurator website split89 mapping is currently broken - something updated my keymap(not myself) on the repo which broke mapping - use the below hex file to program your keyboard.** 
+  **Download Firmware**
 
   **NOTE:** working firmware hex file [here](https://github.com/jurassic73/split89/blob/main/split89_default.hex)
+
+  [QMK Configurator](https://config.qmk.fm/#/handwired/split89/LAYOUT)  **The QMK Configurator website split89 mapping is currently broken. Use the above hex file to program your keyboard. Something updated my keymap(not myself) on the repo which broke mapping - working to get this fixed.**
   
   To download the default layout firmware, go to the above link, click 'COMPILE' in the upper right corner and you'll see a popup noting that firmware is being compiled.  Once the firmware generation is complete, click the 'FIRMWARE' button to download the hex file.  The reason you download from this page is so if you want to customize the keymap, you can do so.  There are different colorways to view different color schemes.  These do not affect the keymap.
+  
+  **Install Firmware Using QMK Toolbox**
 
   Next, download and install QMK Toolbox.  You will use this to flash the hex file onto the controllers.  
   QMK Toolbox - [wiki](https://github.com/qmk/qmk_toolbox) - [downloads](https://github.com/qmk/qmk_toolbox/releases)  
