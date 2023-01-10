@@ -17,6 +17,8 @@ What if you don't have a 3d printer?  You may have options... there are print se
 
 If you're stuck with what to go with regarding colors and materials(there are a ton of options out there for your components), check out my monochrome material list towards the bottom of this page.  Hard to go wrong with a black/white keyboard scheme.
 
+If you wish to redesign/modify any bit of this keyboard, a STEP file ( [split89.step](https://github.com/jurassic73/split89/blob/main/split89.step) ) has been added to the repo for you to download and edit with your CAD software.
+
 If you end up building this keyboard, please share your build here as a make! [prusaprinters.org split89](https://www.prusaprinters.org/prints/75599-split89)  I was happy with the result of this build for my own use and put this document together to share this design and hopefully inspire/help others looking to build a split TKL.  Seeing your build would be awesome!
 
 **External Links**  
