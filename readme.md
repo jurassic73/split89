@@ -19,7 +19,7 @@ If you're stuck with what to go with regarding colors and materials(there are a 
 
 If you wish to redesign/modify any bit of this keyboard, a STEP file ( [split89.step](https://github.com/jurassic73/split89/blob/main/split89.step) ) has been added to the repo for you to download and edit with your CAD software.
 
-If you end up building this keyboard, please share your build here as a make! [prusaprinters.org split89](https://www.prusaprinters.org/prints/75599-split89)  I was happy with the result of this build for my own use and put this document together to share this design and hopefully inspire/help others looking to build a split TKL.  Seeing your build would be awesome!
+A request from me... If you end up building this keyboard, please share your build here as a make! [prusaprinters.org split89](https://www.prusaprinters.org/prints/75599-split89)  Builders have taken customization options in directions I never thought about and it's awesome to see them customize them to their liking. I was happy with the result of this build for my own use and put this document together to share this design and hopefully inspire/help others looking to build a split TKL.  I've built four of these keyboards so far and learned things to adjust and document to refine this build document and videos to dump as much knowledge as I could so the only thing holding back a builder is time and the desired to build. :) Seeing your build would be awesome.
 
 **External Links**  
 [QMK Configurator](https://config.qmk.fm/#/handwired/split89/LAYOUT) - keymap/firmware generator  
