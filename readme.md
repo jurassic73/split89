@@ -15,7 +15,7 @@ Given you have all tools required, you can build this keyboard for roughly $120 
 
 What if you don't have a 3d printer?  You may have options... there are print services out there, the [3Dprintmything subreddit](https://www.reddit.com/r/3Dprintmything/) may be of help or your local maker space or check with friends that print(if you know someone).  Rates can vary quite a bit so shop around.  This is no quick print, it takes roughly 77 hours to print all parts.  There are specifics below you'd want said printing help to view before slicing to ensure your parts are printed as needed.  Of course this could be the project that justifies the purchase of a printer of your own! :)
 
-If you're stuck with what to go with regarding colors and materials(there are a ton of options out there for your components), check out my monochrome material list towards the bottom of this page.  Hard to go wrong with a black/white keyboard scheme.
+If you're stuck with what to go with regarding colors and materials(there are a ton of options out there for your components), check out my monochrome material list towards the bottom of this page.  Hard to go wrong with a black/white keyboard scheme. Also check out the [Printables split89 Makes](https://www.printables.com/model/75599-split89/comments) for inspiration.
 
 If you wish to redesign/modify any bit of this keyboard, a STEP file ( [split89.step](https://github.com/jurassic73/split89/blob/main/split89.step) ) has been added to the repo for you to download and edit with your CAD software.
 
