@@ -70,7 +70,7 @@ A request from me... If you end up building this keyboard, please share your bui
      ![image](https://i.imgur.com/Km8BYtz.png)  
 
   * (2) Pro Micro ATmega32U4 USB-C or USB micro
-![image](https://i.imgur.com/ckrUOlK.png)  ![image](https://i.imgur.com/rJWq10Q.jpeg)
+![image](https://i.imgur.com/ckrUOlK.png)![image](https://i.imgur.com/rJWq10Q.jpeg)
     A few places to purchase  
       * USB-C - [Aliexpress](https://www.aliexpress.us/w/wholesale-pro-micro-usbc-arduino.html)
       * * USB Micro - [EBay](https://www.ebay.com/sch/i.html?_nkw=pro+micro+atmega32u4)
