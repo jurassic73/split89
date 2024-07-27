@@ -69,8 +69,8 @@ A request from me... If you end up building this keyboard, please share your bui
         \* Note - there are two versions of electronic plates. USB-C and micro USB. There are also two versions of the Arduino brace.
      ![image](https://i.imgur.com/Km8BYtz.png)  
 
-  * (2) Pro Micro ATmega32U4 USB-C or USB micro
-![image](https://i.imgur.com/ckrUOlK.png)![image](https://i.imgur.com/rJWq10Q.jpeg)
+  * (2) Pro Micro ATmega32U4 USB-C or USB micro![image](https://i.imgur.com/ckrUOlK.png)![image](https://i.imgur.com/rJWq10Q.jpeg)
+d
     A few places to purchase  
       * USB-C - [Aliexpress](https://www.aliexpress.us/w/wholesale-pro-micro-usbc-arduino.html)
       * * USB Micro - [EBay](https://www.ebay.com/sch/i.html?_nkw=pro+micro+atmega32u4)
