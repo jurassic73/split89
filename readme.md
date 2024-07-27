@@ -51,8 +51,8 @@ A request from me... If you end up building this keyboard, please share your bui
   * 3d printed components in [3d_printing_stl_files](https://github.com/jurassic73/split89/tree/main/3d_printing_stl_files) directory
     **See print notes below! ( [Print keyboard pieces](#print-keyboard-pieces) ) Critical for successful printing!** <br>
     **Print one of each:**  
-      split89_electronics_plate_left.stl  
-      split89_electronics_plate_right.stl  
+      split89_electronics_plate_left.stl  (microusb or usbc)
+      split89_electronics_plate_right.stl  (microusb or usbc)
       split89_left_body.stl  
       split89_left_body_base.stl or split89_left_body_base_no_pillar.stl *  
       split89_left_wrist_base.stl  
@@ -62,22 +62,24 @@ A request from me... If you end up building this keyboard, please share your bui
       split89_right_wrist_base.stl  
       split89_right_wrist_pad.stl  
     **Print two of each:**  
-      split89_arduino_brace.stl  
+      split89_arduino_brace.stl  (microusb or usbc)
       split89_reset_button_brace.stl  
       split89_trrs_jack_brace.stl  
         \* Note - there are two versions of the base plates.  The original has bolt holes and a partial pillar to connect to the body in the middle of the large surfaces to couple the base to the main body surface for a tighter sound.  I added base plates that are void of these pillars/bolt holes which decouples the two large surfaces in the middle for a slightly deeper typing sound.  I prefer the latter but a user can try both to see which they prefer.
+        \* Note - there are two versions of electronic plates. USB-C and micro USB. There are also two versions of the Arduino brace.
      ![image](https://i.imgur.com/Km8BYtz.png)  
 
-  * (2) Pro Micro ATmega32U4 (5v 16MHz USB micro)  
+  * (2) Pro Micro ATmega32U4 USB-C or USB micro
 ![image](https://i.imgur.com/ckrUOlK.png)  
     A few places to purchase  
-      * [EBay](https://www.ebay.com/sch/i.html?_nkw=pro+micro+atmega32u4)  
-      * [Aliexpress](https://www.aliexpress.com/af/atmega32u4.html) (usually cheaper if you have time to wait for slower shipping)  
+      * USB-C - [Aliexpress](https://www.aliexpress.us/w/wholesale-pro-micro-usbc-arduino.html)
+      * * USB Micro - [EBay](https://www.ebay.com/sch/i.html?_nkw=pro+micro+atmega32u4)
+      * USB Micro - [Aliexpress](https://www.aliexpress.com/af/atmega32u4.html) (usually cheaper if you have time to wait for slower shipping)
   * (1) 3.5mm TRS or TRRS male to male cable - [EBay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=trs+3.5+male+to+male%2C+trrs+3.5+male+to+male&_odkw=trs+3.5%2C+trrs+3.5) - only three pins in the TRS positions are being used so TRS or TRRS are acceptable to use for connectivity between the halves.  There are some with two 90° plugs if desired for a compact fit. T = tip, R = ring, S = sleeve.
   * (2) 3.5mm TRS/TRRS breakout boards - [Aliexpress](https://www.aliexpress.com/wholesale?SearchText=trrs+audio+socket+breakout) [Amazon](https://www.amazon.com/s?k=trrs+board&Go=Search+Amazon)
   * (1) 2k-10k resistor - [Aliexpress](https://www.aliexpress.com/item/32952657927.html) - a resistor value somewhere in the 2k to 10k range will work.
   * (2) Tactile Micro vertical mount switch (6mmx6mmx8mm total height / 4.5mm button height) - [Aliexpress](https://www.aliexpress.com/item/4000543708838.html?spm=a2g0s.9042311.0.0.27424c4dCLLkyk)
-  * (1) USB micro cable - only one side needs to be connected to your computer so only one USB cable is required.  I like the magnetic disconnect USB cable I listed towards the bottom of this document.  Make it easy to disconnect the USB cable when needed.  The cable needs to be connected to the keyboard with the LED on the cord plug facing upwards for proper connectivity.
+  * (1) USB-C or USB micro cable - only one side needs to be connected to your computer so only one USB cable is required.  I like the magnetic disconnect USB cable I listed towards the bottom of this document.  Make it easy to disconnect the USB cable when needed.  The cable needs to be connected to the keyboard with the LED on the cord plug facing upwards for proper connectivity.
   * (89) key switches - [NovelKeys](https://novelkeys.xyz/collections/switches/products/gateron-switches?variant=37302529851559) - example switch to use - I'm a fan of linear switches.  If you're not sure which key switch type you'd like, there are [key switch testers](https://www.amazon.com/s?k=key+switch+tester) out there to help you make your decision.
   * (6) 2U plate mount key switch stabilizers [Amazon](https://www.amazon.com/gp/product/B096JVL2MQ/) - [Aliexpress](https://www.aliexpress.com/item/1005001543613992.html) - buy a few smaller sets or the one for the 104 keyswitch board to get the (6) required 2U stabs.
   * (87) key caps - [Key cap List](http://www.keyboard-layout-editor.com/##@_name=split89&author=jurassic73&notes=github%20documentation%20pending%3B&@=Esc&_x:1%3B&=F1&=F2&=F3&=F4&=F5&_x:3.25%3B&=F6&=F7&=F8&_x:0.5%3B&=F9&=F10&=F11&=F12&_x:0.25%3B&=PrtSc&=Scroll%20Lock&=Pause%0ABreak%3B&@_y:0.5%3B&=~%0A%60&=!%0A1&=%2F@%0A2&=%23%0A3&=$%0A4&=%25%0A5&=%5E%0A6&_x:2.75%3B&=%2F&%0A7&=*%0A8&=(%0A9&=)%0A0&=%2F_%0A-&=+%0A%2F=&_w:2%3B&=Backspace&_x:0.25%3B&=Insert&=Home&=PgUp%3B&@_w:1.5%3B&=Tab&=Q&=W&=E&=R&=T&_x:2.75%3B&=Y&=U&=I&=O&=P&=%7B%0A%5B&=%7D%0A%5D&_w:1.5%3B&=%7C%0A%5C&_x:0.25%3B&=Delete&=End&=PgDn%3B&@_w:1.75%3B&=Caps%20Lock&=A&=S&=D&=F&=G&_x:2.75%3B&=H&=J&=K&=L&=%2F:%0A%2F%3B&=%22%0A'&_w:2.25%3B&=Enter%3B&@_w:2.25%3B&=Shift&=Z&=X&=C&=V&=B&_x:2.75%3B&=N&=M&=%3C%0A,&=%3E%0A.&=%3F%0A%2F%2F&_w:2.75%3B&=Shift&_x:1.25%3B&=%E2%86%91%3B&@_w:1.25%3B&=Ctrl&_w:1.25%3B&=Fn&_w:1.25%3B&=Win&_w:1.25%3B&=Alt&_a:7&w:2.25%3B&=&_x:2.75&w:2.75%3B&=&_a:4&w:1.25%3B&=Alt&_w:1.25%3B&=Win&_w:1.25%3B&=Menu&_w:1.25%3B&=Ctrl&_x:0.25%3B&=%E2%86%90&=%E2%86%93&=%E2%86%92) - most standard keycap sets will work fine but ensure they have eight 1.25u keycaps.  Some only have seven.  I'm a big fan of the [AKKO keycap sets](https://en.akkogear.com/store/keycap/) in ASA profile which is like a cherry MX but slightly sculpted(Much less than SA profile) in both directions vs cylindrical.  They have more color sets on their site vs Amazon.  Amazon has a good return policy if you want to order them and just see them in person to see if you like them.
@@ -330,7 +332,9 @@ Stabilizers - [Durock](https://www.amazon.com/gp/product/B096JVL2MQ/)
 Keycaps - [AKKO White on Black ASA Profile PBT Double-shot](https://en.akkogear.com/product/white-on-black-keycap-set-158-key/)  
 Car wrap vinyl - [3m Black Shadow](https://metrorestyling.com/products/3m-2080-shadow-black-textured-vinyl-wrap-sb12)  
 TRS Cable - [CableCreation 1.5ft](https://www.amazon.com/gp/product/B01K3WYJBK/)  
-USB Cable / magnetic disconnect - [NetDot Gen7 Magnetic Charging Cable](https://www.amazon.com/gp/product/B01MZ634EJ/)  
+USB-C Cable / magnetic disconnect -  [NetDot Gen7 Magnetic Charging Cable](https://www.amazon.com/NetDot-Braided-Magnetic-Charging-Compatible/dp/B07LBG1DFQ/)
+Micro USB Cable / magnetic disconnect - [NetDot Gen7 Magnetic Charging Cable](https://www.amazon.com/gp/product/B01MZ634EJ/)  
+
 
 ## Carbon scheme
 ![image](https://i.imgur.com/pApi5FN.jpg)
