@@ -67,6 +67,7 @@ A request from me... If you end up building this keyboard, please share your bui
       split89_trrs_jack_brace.stl  
         \* Note - there are two versions of the base plates.  The original has bolt holes and a partial pillar to connect to the body in the middle of the large surfaces to couple the base to the main body surface for a tighter sound.  I added base plates that are void of these pillars/bolt holes which decouples the two large surfaces in the middle for a slightly deeper typing sound.  I prefer the latter but a user can try both to see which they prefer.
         \* Note - there are two versions of electronic plates. USB-C and micro USB. There are also two versions of the Arduino brace.
+
      ![image](https://i.imgur.com/Km8BYtz.png)
     
   * (2) Pro Micro ATmega32U4 USB-C or USB micro
