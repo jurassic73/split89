@@ -194,6 +194,8 @@ I've added a split89_keyhole_test_print.stl model with a 13.9mm square hole.  Co
 
   I would highly recommend putting all jumpers required, in place on the pro micro, before mounting the pro micro on the electronics plate.   If the pro micro boards are a snug fit, you can either sand or scrape the edge of the PCB (exposed edge next to the pins) lightly and then try refitting.  I found that most of my boards installed fine while I had two that had somewhat rough edges which didn't allow them to slide in to place.  After scraping the edges a touch, they slid in to place on the electronics plates fine.
 
+  **NOTE**: if you find the USB-C board slides after the brace is in place, put a piece of electric tape between the board and brace to make up the difference. There may be up to 1mm variation in your USB-C board length.
+
 ![image](https://i.imgur.com/Eb7rLX7.jpg)
   
   Also, note which plate goes with with which controller, right or left.  They are specific to each side.  The right side has more wires.  Pre-wiring the controllers will make for an easier and cleaner installation.  I tinned all of the pins on the controller I'd be using ahead of time.  The pre-tinned wire drops into place nicely when these tinned pins are reheated.  
