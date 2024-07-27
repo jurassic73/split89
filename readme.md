@@ -70,14 +70,14 @@ A request from me... If you end up building this keyboard, please share your bui
 
      ![image](https://i.imgur.com/Km8BYtz.png)
     
-  * (2) Pro Micro ATmega32U4 USB-C or USB micro
+  * (2) Pro Micro ATmega32U4 USB-C or USB micro<br>
+  ![image](https://i.imgur.com/rJWq10Q.jpeg)    ![image](https://i.imgur.com/ckrUOlK.png) 
 
-![image](https://i.imgur.com/ckrUOlK.png) ![image](https://i.imgur.com/rJWq10Q.jpeg)
+      A few places to purchase<br>
+      * USB-C - [Aliexpress](https://www.aliexpress.us/w/wholesale-pro-micro-usbc-arduino.html)
+      * USB Micro - [EBay](https://www.ebay.com/sch/i.html?_nkw=pro+micro+atmega32u4)
+      * USB Micro - [Aliexpress](https://www.aliexpress.com/af/atmega32u4.html) (usually cheaper if you have time to wait for slower shipping)
 
-   A few places to purchase  
-     * USB-C - [Aliexpress](https://www.aliexpress.us/w/wholesale-pro-micro-usbc-arduino.html)
-     * USB Micro - [EBay](https://www.ebay.com/sch/i.html?_nkw=pro+micro+atmega32u4)
-     * USB Micro - [Aliexpress](https://www.aliexpress.com/af/atmega32u4.html) (usually cheaper if you have time to wait for slower shipping)
   * (1) 3.5mm TRS or TRRS male to male cable - [EBay](https://www.ebay.com/sch/i.html?_from=R40&_nkw=trs+3.5+male+to+male%2C+trrs+3.5+male+to+male&_odkw=trs+3.5%2C+trrs+3.5) - only three pins in the TRS positions are being used so TRS or TRRS are acceptable to use for connectivity between the halves.  There are some with two 90° plugs if desired for a compact fit. T = tip, R = ring, S = sleeve.
   * (2) 3.5mm TRS/TRRS breakout boards - [Aliexpress](https://www.aliexpress.com/wholesale?SearchText=trrs+audio+socket+breakout) [Amazon](https://www.amazon.com/s?k=trrs+board&Go=Search+Amazon)
   * (1) 2k-10k resistor - [Aliexpress](https://www.aliexpress.com/item/32952657927.html) - a resistor value somewhere in the 2k to 10k range will work.
