@@ -91,7 +91,7 @@ A request from me... If you end up building this keyboard, please share your bui
   
     ![image](./images/spacebar_flipped.png)
   
-  They are only available in ABS so they will take a little shine over time but they're a comfortable compliment to my AKKO ASA sets and come in enough colors to get something close or at least neutral in color vs your primary keycap set.  They're also the most reasonable cost I've found out there at $2.50 per individual cap.  WASD can custom print items on your caps but I found that print wears off in time so I stick with blanks from them.
+    They are only available in ABS so they will take a little shine over time but they're a comfortable compliment to my AKKO ASA sets and come in enough colors to get something close or at least neutral in color vs your primary keycap set.  They're also the most reasonable cost I've found out there at $2.50 per individual cap.  WASD can custom print items on your caps but I found that print wears off in time so I stick with blanks from them.
   * Wire - 6 color pack on [Amazon](https://www.amazon.com/gp/product/B07V1D82HM/) - 24AWG pre-tinned wired - color helps you keep track of what's where.  Solid core and pre-tinned as well so soldering is easier. 
   * (89) 1N4148 Diodes - 100ct pack - [Aliexpress](https://www.aliexpress.com/af/1N4148-do%25252d35.html) - [Ebay](https://www.ebay.com/sch/i.html?_nkw=1N4148++do-35)  
   * M3 Hardware  [Amazon](https://www.amazon.com/s?k=m3+hardware) - [Aliexpress](https://www.aliexpress.com/item/10000150053486.html)  
