@@ -66,12 +66,13 @@ A request from me... If you end up building this keyboard, please share your bui
       split89_reset_button_brace.stl  
       split89_trrs_jack_brace.stl  
         \* Note - there are two versions of the base plates.  The original has bolt holes and a partial pillar to connect to the body in the middle of the large surfaces to couple the base to the main body surface for a tighter sound.  I added base plates that are void of these pillars/bolt holes which decouples the two large surfaces in the middle for a slightly deeper typing sound.  I prefer the latter but a user can try both to see which they prefer.
+
         \* Note - there are two versions of electronic plates. USB-C and micro USB. There are also two versions of the Arduino brace.
 
-     ![image](https://i.imgur.com/Km8BYtz.png)
+     ![image](./images/base.png) 
     
   * (2) Pro Micro ATmega32U4 USB-C or USB micro<br>
-  ![image](https://i.imgur.com/rJWq10Q.jpeg)    ![image](https://i.imgur.com/ckrUOlK.png) 
+  ![image](./images/usbc.jpg)  ![image](./images/usb_micro.png) 
 
       A few places to purchase<br>
       * USB-C - [Aliexpress](https://www.aliexpress.us/w/wholesale-pro-micro-usbc-arduino.html)
@@ -90,7 +91,7 @@ A request from me... If you end up building this keyboard, please share your bui
   * Wire - 6 color pack on [Amazon](https://www.amazon.com/gp/product/B07V1D82HM/) - 24AWG pre-tinned wired - color helps you keep track of what's where.  Solid core and pre-tinned as well so soldering is easier. 
   * (89) 1N4148 Diodes - 100ct pack - [Aliexpress](https://www.aliexpress.com/af/1N4148-do%25252d35.html) - [Ebay](https://www.ebay.com/sch/i.html?_nkw=1N4148++do-35)  
   * M3 Hardware  [Amazon](https://www.amazon.com/s?k=m3+hardware) - [Aliexpress](https://www.aliexpress.com/item/10000150053486.html)  
-  ![image](  https://i.imgur.com/p5mSBJr.png)  
+  ![image](./images/screws.png)  
     (6)  20mm  
     (34) 10mm  
     (5)  8mm  
@@ -112,7 +113,7 @@ A request from me... If you end up building this keyboard, please share your bui
 
 ### Print keyboard pieces
 
-![image](https://i.imgur.com/u4bVIrw.jpg)  
+![image](./images/base_1.jpg)  
 
   I've built four of these keyboards now.  One using SunLu Gray PETG and three using Eryone Matte PLA.  PETG is less rigid vs PLA and holds it's shape better over time under pressure like a bolted assembly vs PLA however this Matte has performed well as well and I would easily recommend it along side PETG and it prints easier.
 
@@ -147,44 +148,44 @@ I've added a split89_keyhole_test_print.stl model with a 13.9mm square hole.  Co
   
   **Support** [easy to remove support settings](https://projects.ttlexceeded.com/3dprinting_techniques_removable_supports.html) - supports for this build are only needed for wrist pad pieces.  The supports can be very tough to remove easily/cleanly from wide surfaces however I use the settings in the link.  The supports,created with these settings, remove relatively easily/cleanly without much effort.
  
- ![image](https://i.imgur.com/VNW9OV7.jpg)
+ ![image](./images/rests.jpg)
  
  The remaining pieces for the wrist pads/bases and electronics plates I printed using the default Prusa slicer settings for PLA or PETG respectively.
   
 ### Install key switches and stabs
 
-![image](https://i.imgur.com/08gpOL3.jpg)  
+![image](./images/left_side.jpg)  
 
-![image](https://i.imgur.com/9eiMjrX.jpg)  
+![image](./images/right_side.jpg)  
 
   This keyboard has 13.9mm square holes for the key switches.  The key switches should press into place firmly.  The stabilizers insert and kinda rotate into their position as they are fully seated.  I took the time to disassemble and lube my key switches using Super Lube prior to installation.  Also added lube to my stabs.  This is not required but the few hours you put in to lubing your switches will be noticeable over many hours of use.  There are many videos out there on how to do this.
 
 ### Prepping the diodes
 
-![image](https://i.imgur.com/KKpR9Zb.jpg)  
+![image](./images/diode_jig.jpg)  
 
-![image](https://i.imgur.com/z1nk4RV.jpg)  
+![image](./images/diodes.jpg)  
 
   For an easier installation and cleaner final result, I opted to put a few nails in a board(1 cm apart center to center) with a line perpendicular to the nail's alignment, to help me put consistent 90 degree bends in them at the right lengths.  The bottom will get a 90 degree bend. The top gets a 90 as well but then you'll use a pair of needle nose pliers to make a loop.  This loop will go over one of the legs of the switches for easier soldering.  Ensure that you have the black marked end of the diode facing the 90, not the loop.  This is critical for your keyboard to operate.  One of my diodes was backwards and the key at that location would simply not work til I fixed the diode orientation.
 
 ### Installing the diode rows
 
-![image](https://i.imgur.com/gJlS6R1.png)
+![image](./images/schematic.png)
 
   Each key switch requires a diode.  I installed these one row at a time.  I would put all diodes in place for the row I was soldering.  The diode at the far right column had it's 90 leg snipped short.  Once all are laid in place, solder from left to right.  I used the cut off legs to cover the distance between the keys in rows that were further apart for appearance.  You could just jumper these spans with wire as well.
 
-![image](https://i.imgur.com/NL9UTmt.jpg)  
+![image](./images/right_side_diodes.jpg)  
 
-![image](https://i.imgur.com/qr8qbID.jpg)  
+![image](./images/left_side_diodes.jpg) 
 
 
 ### Installing the column wires
 
   Per the diagram, using insulated wire, you will solder the 5-6 pins per column together.  To do this, I would cut 8" pieces at a time.  Easiest way is to just pull all six colors at once and cut them together.  Remove 1/2" of insulation from one end and make a loop similar to the diodes.  Put this on the pin of the switch at one end of the column.  Next, you'll need to figure out where you need to expose the wire.  I'd put the wire on the first pin and then bend the wire where the next pin is located.  I used a set of wire strippers(which you can set how far they close) to cut the jacket(not the wire) and then, holding the looped end, pull the insulation a bit to expose 1/4" of wire.  I'd repeat threading the wire in place to find where to cut and eventually end up with a piece of wire with gaps where I needed to solder.  Some folks use an x-acto knife to open the wire insulation where needed.  Others use a soldering iron to just melt the jacket away.  At any rate, you'll build these column wires and solder them into place per the diagram.
 
-![image](https://i.imgur.com/osNvp7X.jpg)  
+![image](./images/right_side_wiring.jpg)  
 
-![image](https://i.imgur.com/LlCcYc1.jpeg)
+![image](./images/left_side_wiring.jpg)
 
 ### Wiring the controller, reset button, TRRS jack, jumper and resistor
   
@@ -196,7 +197,7 @@ I've added a split89_keyhole_test_print.stl model with a 13.9mm square hole.  Co
 
   **NOTE**: if you find the USB-C board slides after the brace is in place, put a piece of electric tape between the board and brace to make up the difference. There may be up to 1mm variation in your USB-C board length.
 
-![image](https://i.imgur.com/Eb7rLX7.jpg)
+![image](./images/wiring.jpg)
   
   Also, note which plate goes with with which controller, right or left.  They are specific to each side.  The right side has more wires.  Pre-wiring the controllers will make for an easier and cleaner installation.  I tinned all of the pins on the controller I'd be using ahead of time.  The pre-tinned wire drops into place nicely when these tinned pins are reheated.  
   
@@ -206,9 +207,9 @@ I've added a split89_keyhole_test_print.stl model with a 13.9mm square hole.  Co
 
   There is a jumper and resistor that need to be installed on the pro micro boards to tie pins to high and low.  This is done so the pro micro boards know which they are expecting to be wired to, to apply the firmware accordingly to what you've wired out(left side or right side).  The wire jumper ties it's pin low to ground(right half).  The resistor ties it's pin high to VCC(left half).  
 
-![image](https://i.imgur.com/q0PjyJa.jpg)
+![image](./images/right_side_final_wiring.jpg)
 
-![image](https://i.imgur.com/Dztlb0R.jpg)
+![image](./images/left_side_final_wiring.jpg)
 
 ### Programming the controllers
 
@@ -242,7 +243,7 @@ I've added a split89_keyhole_test_print.stl model with a 13.9mm square hole.  Co
 
   At this point, your keyboard half should function.  Go [here](https://config.qmk.fm/#/test) to test all keys on this half.
 
-  ![image](  https://i.imgur.com/h1C4d9t.png)  
+  ![image](./images/key_layout.png)  
 
   This firmware is written such that you can upload the same hex to both sides and the pins you tied high and low help the controller identify which side is left and which is right to run the correct part of the keyboard matrix.
 
@@ -261,40 +262,40 @@ I've added a split89_keyhole_test_print.stl model with a 13.9mm square hole.  Co
 
   M3 screw size
 
-![image](https://i.imgur.com/1FpEy1G.png)  
+![image](./images/screw_lengths.png)  
 
   You can install the base plates at this point knowing your keyboard electronics build is fully functional.  I created many joints between the base plates and the main bodies(hence all the screws) to minimize the drumming sound of a large surface with nothing below it.  Especially with plastic vs say aluminum.  
   
 ### Wrap the wrist bases and rests
   (optional but highly recommended)  
 
-![image](https://i.imgur.com/DJABRS7.jpg)  
+![image](./images/rest_wrap_4.jpg)  
 
   I used 3M car wrap vinyl I got off EBay.  There are many colors out there.  I went with 3M carbon fiber wrap.  I cut my pieces to leave about 1" extra all the way around so I had something to hang on to while pulling it in to place.  
 
   The vinyl will cover up tiny gaps and the like in the surface but larger surface texture or bumps will show through.  I sanded down my surfaces with 120 grit sandpaper to knock down most of the top texture.  This made the vinyl lay down nice and flat.  Check the bottom of the pads to ensure they're flat for a good mount to the base.  I then wiped down all surfaces the vinyl would touch with isopropyl alcohol to ensure good adhesion.  
 
-![image](https://i.imgur.com/WQU3J1q.jpg)  
+![image](./images/rest_wrap_5.jpg)  
 
   When you're ready to put the vinyl on, remove the backing and place the vinyl on a clean work surface adhesive side up.  A clean work surface will help ensure no particles or the like make it's way onto this sticky vinyl else you'll see it when you're finished and then it's too late to remove.  This vinyl adhesive side being face up will allow you to easily hold the pad over the vinyl to ensure the bottom edge of the vinyl is parallel to the front edge of the pad so the texture of the vinyl runs straight across the pad.  
 
-![image](https://i.imgur.com/GSuibzX.jpg)  
+![image](./images/rest_wrap_6.jpg)  
 
   Set it down on the vinyl and then pull up the long straight edges.  Avoid the corners until you add heat.  
 
-  ![image](https://i.imgur.com/uiToADq.jpg)  
+  ![image](./images/rest_wrap_1.jpg)  
 
   This is when you'll want to start using heat to pull and lightly stretch and form the vinyl around the edges.  The heat really loosens up this material quickly.  If you're nervous, try practicing with some of the left over vinyl to get a feel for it before mounting your main pieces.  Once I have it pulled up around the edges, I trim it so there's about 1/4"-1/2" of material to fold over on the bottom.  Heat up the bottom and press that edge down as flat as you can.  This will ensure a clean look when installing the pads.
 
-![image](https://i.imgur.com/P79eEUV.jpg)  
+![image](./images/rest_wrap_2.jpg)  
 
-![image](https://i.imgur.com/65uietM.jpg)  
+![image](./images/rest_wrap_3.jpg)  
 
 ### Mount the wrist bases and rests
 
-![image](https://i.imgur.com/KtgN7Lq.jpg)  
+![image](./images/rest_base_1.jpg)  
 
-![image](https://i.imgur.com/DSHqTEd.jpg)  
+![image](./images/rest_base_2.jpg)   
 
   The wrist bases are secured to the bodies with  bolts and nylock nuts minus the single 10mm screw which self threads into the body only.
 
@@ -302,7 +303,7 @@ I've added a split89_keyhole_test_print.stl model with a 13.9mm square hole.  Co
   
 ### Install rubber feet
 
-![image](https://i.imgur.com/UFWw8DL.jpg)
+![image](./images/base_screws.jpg)
 
   I designed the foot inset holes to allow use of feet for grip and sound isolation but not protrude all the way to avoid adding height to the keyboard.  
 
@@ -318,18 +319,18 @@ Sounds like a lot and it is but if you build this, you will be stoked at the res
 
 ### My personal build
 
-![image](https://i.imgur.com/1vM3v0t.jpg)
+![image](./images/first_build.jpg)
 
-![image](https://i.imgur.com/nbvyg8x.jpg)
+![image](./images/first_build_trrs_cable_connection.jpg)
 
-![image](https://i.imgur.com/8uK23Bt.jpg)
+![image](./images/left_profile.jpg)
 
-![image](https://i.imgur.com/KheWpgT.jpg)
+![image](./images/right_profile.jpg)
 
 ### My personal build main hardware
 
 ## Latest build - monochrome scheme (my favorite scheme)
-![image](https://i.imgur.com/79znerx.jpg)  
+![image](./images/main.jpg)  
 
 Filament - [ERYONE Matte Black PLA](https://www.amazon.com/ERYONE-Filament-1-75mm-Printer-2-2LBS/dp/B08HX1XF55/)  
 Key switches - [Gateron Ink V2 Linear Switches - Black](https://1upkeyboards.com/shop/switches/set-packs/gateron-ink-switches/)  
@@ -342,7 +343,7 @@ Micro USB Cable / magnetic disconnect - [NetDot Gen7 Magnetic Charging Cable](ht
 
 
 ## Carbon scheme
-![image](https://i.imgur.com/pApi5FN.jpg)
+![image](./images/carbon_scheme.jpg)
 
 Filament - [SUNLU Grey PETG](https://www.amazon.com/gp/product/B07Y5TCH9V/)  
 Key switches - [Alpaca Linear](https://www.primekb.com/products/alpaca-linears?variant=37633188855971)  
