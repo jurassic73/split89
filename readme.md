@@ -1,6 +1,6 @@
 # split89 keyboard - a 3d printed 89 key split TKL keyboard base powered by ATmega32U4 Pro Micro controllers with QMK Configurator support.  
 
-![image](.images/main.jpg)  
+![image](./images/main.jpg)  
 
 This keyboard build was inspired by the Microsoft Ergonomic 4000 keyboard I used for roughly 12 years or so.  I broke my left wrist twice over the years so an ergo keyboard is a must for me to type comfortably all day long else my left wrist starts to burn after a few hours of typing on a regular keyboard.  This is a real bummer since there are so many amazing keyboards out there.  I could not find a split TKL like this layout so I designed one.  I started designing this on Dec 4th, 2020 and built my first version in June 2021. This has a 6° tent and a 3° incline.  I designed this to sit as low as possible with these angles on a table.  One key switch is actually in a recess in the baseplate with a few mm of material below it.
 
